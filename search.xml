@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Ubuntu常用命令 Hexo主题</title>
+      <link href="/2023/03/31/JC/Ubuntu%20and%20Hexo/"/>
+      <url>/2023/03/31/JC/Ubuntu%20and%20Hexo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Ubuntu常用命令-Hexo主题"><a href="#Ubuntu常用命令-Hexo主题" class="headerlink" title="Ubuntu常用命令 Hexo主题"></a>Ubuntu常用命令 Hexo主题</h1><h1 id=""><a href="#" class="headerlink" title=""></a></h1><h2 id="文件夹包括子文件夹可读可写"><a href="#文件夹包括子文件夹可读可写" class="headerlink" title="文件夹包括子文件夹可读可写"></a>文件夹包括子文件夹可读可写</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo chmod -R 777 hexoblog</span><br></pre></td></tr></table></figure><h2 id="快速前往"><a href="#快速前往" class="headerlink" title="快速前往"></a>快速前往</h2><h3 id="butterfly"><a href="#butterfly" class="headerlink" title="butterfly"></a>butterfly</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd /home/du20/hexoblog/butterfly</span><br></pre></td></tr></table></figure><h3 id="webstack"><a href="#webstack" class="headerlink" title="webstack"></a>webstack</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd /home/du20/hexoblog/webstack</span><br></pre></td></tr></table></figure><h3 id="aurora"><a href="#aurora" class="headerlink" title="aurora"></a>aurora</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd /home/du20/hexoblog/aurora</span><br></pre></td></tr></table></figure><h1 id="hexo主题命令"><a href="#hexo主题命令" class="headerlink" title="hexo主题命令"></a>hexo主题命令</h1><h3 id="预览命令"><a href="#预览命令" class="headerlink" title="预览命令"></a>预览命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo c &amp; hexo g &amp; hexo s</span><br></pre></td></tr></table></figure><h3 id="上传git命令"><a href="#上传git命令" class="headerlink" title="上传git命令"></a>上传git命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo c &amp; hexo g &amp; hexo d</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> ubuntu </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Altium designer软件笔记</title>
+      <link href="/2023/03/31/JC/ad3/"/>
+      <url>/2023/03/31/JC/ad3/</url>
+      
+        <content type="html"><![CDATA[<p>[TOC]</p><h1 id="Altium-designer布局布线前的设置"><a href="#Altium-designer布局布线前的设置" class="headerlink" title="Altium designer布局布线前的设置"></a>Altium designer布局布线前的设置</h1><h2 id="绿色报错问题"><a href="#绿色报错问题" class="headerlink" title="绿色报错问题"></a>绿色报错问题</h2><p><img src="/assets/image-20230331022016948.png" alt="image-20230331022016948"></p><h2 id="快捷设置失效问题"><a href="#快捷设置失效问题" class="headerlink" title="快捷设置失效问题"></a>快捷设置失效问题</h2><p><img src="/assets/image-20230331022144332.png" alt="image-20230331022144332"></p><p>取消默认快捷键；当前设置的快捷键即可使用</p><p><img src="/assets/image-20230331022134855.png" alt="image-20230331022134855"></p><h2 id="设置原点"><a href="#设置原点" class="headerlink" title="设置原点"></a>设置原点</h2><p><img src="/assets/image-20230331005055381.png" alt="image-20230331005055381"></p><h2 id="添加层—设计——层叠管理器"><a href="#添加层—设计——层叠管理器" class="headerlink" title="添加层—设计——层叠管理器"></a>添加层—设计——层叠管理器</h2><p><img src="/assets/image-20230331011830063.png" alt="image-20230331011830063"></p><p><img src="/assets/image-20230331011649055.png" alt="image-20230331011649055"></p><p><img src="/assets/image-20230331013530835.png" alt="image-20230331013530835"></p><h3 id="层数添加区别"><a href="#层数添加区别" class="headerlink" title="层数添加区别"></a>层数添加区别</h3><p><img src="/assets/image-20230331013859434.png" alt="image-20230331013859434"></p><h2 id="设置快捷键的方法"><a href="#设置快捷键的方法" class="headerlink" title="设置快捷键的方法"></a>设置快捷键的方法</h2><p>按住【Ctal+鼠标左键】进行设置</p><p><img src="/assets/image-20230331014828277.png" alt="image-20230331014828277"></p><p><img src="/assets/image-20230331020910001.png" alt="image-20230331020910001"></p><h3 id="PCB-Editor-PCB部分设置"><a href="#PCB-Editor-PCB部分设置" class="headerlink" title="PCB Editor   PCB部分设置"></a>PCB Editor   PCB部分设置</h3><p><img src="/assets/image-20230331020733459.png" alt="image-20230331020733459"></p><h1 id="布局布线"><a href="#布局布线" class="headerlink" title="布局布线"></a>布局布线</h1><h2 id="对照原理图；划分大致区域"><a href="#对照原理图；划分大致区域" class="headerlink" title="对照原理图；划分大致区域"></a>对照原理图；划分大致区域</h2><h2 id="添加类；隐藏电源网络"><a href="#添加类；隐藏电源网络" class="headerlink" title="添加类；隐藏电源网络"></a>添加类；隐藏电源网络</h2><p><img src="/assets/image-20230331021617973.png" alt="image-20230331021617973"></p><p><img src="/assets/image-20230331021620948.png" alt="image-20230331021620948"></p><h2 id="修改布局格子大小"><a href="#修改布局格子大小" class="headerlink" title="修改布局格子大小"></a>修改布局格子大小</h2><p><img src="/assets/image-20230331025328484.png" alt="image-20230331025328484"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AD </tag>
+            
+            <tag> PCB </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>国内免费使用ChatGPT方法【无需注册】</title>
+      <link href="/2023/03/29/JC/chatgpt/"/>
+      <url>/2023/03/29/JC/chatgpt/</url>
+      
+        <content type="html"><![CDATA[<h1 id="国内免费使用ChatGPT方法【无需注册】"><a href="#国内免费使用ChatGPT方法【无需注册】" class="headerlink" title="国内免费使用ChatGPT方法【无需注册】"></a>国内免费使用ChatGPT方法【无需注册】</h1><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_6b2f1634-8a46-40b5-8d21-22e80aa0f461.png"></p><h3 id="ChatGPT是什么？它能干什么？"><a href="#ChatGPT是什么？它能干什么？" class="headerlink" title="ChatGPT是什么？它能干什么？"></a>ChatGPT是什么？它能干什么？</h3><p>ChatGPT是一种基于人工智能技术的自然语言生成模型，它使用了GPT（Generative Pre-trained Transformer）模型，并经过了大量的训练和优化。通过ChatGPT，用户可以与机器人进行对话，机器人会根据用户的提问或回答产生相应的回应，帮助用户解决问题、获取信息或者进行娱乐互动。ChatGPT的应用范围非常广泛，包括智能客服、智能问答、语音交互等等。</p><h3 id="文学"><a href="#文学" class="headerlink" title="文学"></a>文学</h3><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_f6430520-709b-45c4-abe6-efec4ee49cb7.png"></p><h3 id="电脑操作"><a href="#电脑操作" class="headerlink" title="电脑操作"></a>电脑操作</h3><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_2ec85fc9-78a3-4f7d-bb9b-8e12a6946206.png"><br><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_40138e68-d682-42b7-bff6-826f8235d230.png"></p><h3 id="医疗"><a href="#医疗" class="headerlink" title="医疗"></a>医疗</h3><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_28_14_e5dd06c3-2358-44f0-9a8f-e6059ba5e204.png"><br><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_aae073d4-ab31-42cb-b83b-0d8961db99b9.png"><br><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_08a24022-1b89-4923-ad7c-dc1c8446fa84.png"></p><h2 id="首先：安装Vs-Code"><a href="#首先：安装Vs-Code" class="headerlink" title="首先：安装Vs Code"></a>首先：安装Vs Code</h2><ol><li>首先，你需要下载 VS Code 的安装包。你可以在 VS Code 的官方网站上下载，地址<br>为：<a href="https://code.visualstudio.com/Download">https://code.visualstudio.com/Download</a><br><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_ed6d9dc7-5482-4701-94a1-568292642e27.png"></li><li>如果你在中国大陆，由于网络环境的原因，可能会遇到下载速度慢或者下载失败的<br>问题。这时，你可以使用一些加速工具，比如<strong>迅雷</strong>、快车等，来加速下载。</li></ol><h3 id="快速下载方法一：使用迅雷速度超快"><a href="#快速下载方法一：使用迅雷速度超快" class="headerlink" title="快速下载方法一：使用迅雷速度超快"></a>快速下载方法一：使用迅雷速度超快</h3><p><code>复制下载链接；添加到迅雷中加速下载</code><br><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_0871191c-8e53-4681-b712-9b8b61e3bfd3.png"><br><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_451b8254-1cbf-47e5-b120-928c1a6e9d25.png"><br><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_7441d99d-6139-41b5-9931-a1234df50601.png"></p><h3 id="快速下载方法二：通过小编的个人云盘下载"><a href="#快速下载方法二：通过小编的个人云盘下载" class="headerlink" title="快速下载方法二：通过小编的个人云盘下载"></a>快速下载方法二：通过小编的个人云盘下载</h3><p>下载地址：<code>https://flowus.cn/bwbj/share/0cc88fab-4957-4d72-aa1d-60a5bbd5a421</code></p><ol start="3"><li><p>下载完成后，双击安装包，按照提示进行安装。如果你遇到权限问题，需要以管理<br>员身份运行安装程序。</p></li><li><p>安装完成后，你就可以打开 VS Code 开始使用了。</p></li></ol><h1 id="安装Vs-Code扩展"><a href="#安装Vs-Code扩展" class="headerlink" title="安装Vs Code扩展"></a>安装Vs Code扩展</h1><p>1.Code 可以通过提示进行汉化</p><p>2.在扩展商店搜索Chinese汉化</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_676df690-ff2f-4cbf-98e2-0a591321a338.png"><br><code>打开扩展商店搜索ChatGPT</code><br><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_a1b048e0-8899-4733-acd3-28cfd03af2e5.png"><br><code>右侧出现GPT图标表示安装成功</code><br><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_6b7fddba-76a7-41fb-a6cd-1d8fdca7aee3.png"><br>大家快进行提问吧！！！</p><h3 id="快速下载方法二：通过小编的个人云盘下载-1"><a href="#快速下载方法二：通过小编的个人云盘下载-1" class="headerlink" title="快速下载方法二：通过小编的个人云盘下载"></a>快速下载方法二：通过小编的个人云盘下载</h3><p>下载地址：<br><code>https://flowus.cn/bwbj/share/0cc88fab-4957-4d72-aa1d-60a5bbd5a421</code></p><p> <strong>文档访问密码：后台回复“密码”获取</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+            <tag> ChatGPT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>解决wordpress网站转移问题</title>
+      <link href="/2023/03/28/Web/wpzhuangyi/"/>
+      <url>/2023/03/28/Web/wpzhuangyi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="解决wordpress网站转移问题"><a href="#解决wordpress网站转移问题" class="headerlink" title="解决wordpress网站转移问题"></a>解决wordpress网站转移问题</h1><h2 id="1、登录WordPress管理后台出现“将您重定向的次数过多”"><a href="#1、登录WordPress管理后台出现“将您重定向的次数过多”" class="headerlink" title="1、登录WordPress管理后台出现“将您重定向的次数过多”"></a>1、登录WordPress管理后台出现“<strong>将您重定向的次数过多</strong>”</h2><p>当您的一个WordPress网站配置Https后，登录WordPress管理后台出现“<strong>将您重定向的次数过多</strong>”的问题时，可以使用本文提供方法快速解决。</p><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>在你的网站根目录下，找到 wp-config.php 文件，并加入以下代码，即可解决“<strong>将您重定向的次数过多</strong>”问题：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$_SERVER[&#x27;HTTPS&#x27;] = &#x27;on&#x27;;</span><br><span class="line">define(&#x27;FORCE_SSL_LOGIN&#x27;, true);</span><br><span class="line">define(&#x27;FORCE_SSL_ADMIN&#x27;, true);</span><br></pre></td></tr></table></figure><p><strong>关键说明：</strong>以上代码添加时，必须添加在 <code>if ( !defined(&#39;ABSPATH&#39;) )</code> 代码之前才能生效！如下图所示位置：</p><p>否则，在登录WordPress网站后台时，可能会出现“<strong>抱歉，您不能访问此页面</strong>”的错误提示，导致还是无法登录网站后台。</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_WordPress-Https-Setting-Code.jpg.jpeg" alt="WordPress启用Https访问代码" title="WordPress网站开启https后台提示“将您重定向的次数过多”怎么办?【已解决】 - 常见问题 - 1"></p><p>添加代码的正确位置</p><hr><p>以上方法登录WordPress网站后台，在【 <strong>常规</strong> – <strong>设置</strong> 】页面，修改其中的 <strong>WordPress地址（URL）</strong>和 <strong>站点地址（URL）</strong>两项中的网址为 https:&#x2F;&#x2F; 开头的，如下图所示：</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_WordPress-Https-Setting.jpg.jpeg" alt="WordPress启用Https访问" title="WordPress网站开启https后台提示“将您重定向的次数过多”怎么办?【已解决】 - 常见问题 - 2"></p><p>修改网址路径为https</p><h2 id="2、修改网站地址"><a href="#2、修改网站地址" class="headerlink" title="2、修改网站地址"></a>2、修改网站地址</h2><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_image-20230328134338673.png" alt="image-20230328134338673"></p><p><strong>提醒：后台登陆地址<code>/wp-login.php</code>或<code>/wp-admin</code></strong></p><h2 id="3、数据库修改"><a href="#3、数据库修改" class="headerlink" title="3、数据库修改"></a>3、数据库修改</h2><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/03/28_14_image-20230328134456677.png" alt="image-20230328134456677"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+          <category> 后端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>butterfly主题Markdown语法</title>
+      <link href="/2023/02/18/JC/md/"/>
+      <url>/2023/02/18/JC/md/</url>
+      
+        <content type="html"><![CDATA[<h1 id="butterfly主题markdown语法"><a href="#butterfly主题markdown语法" class="headerlink" title="butterfly主题markdown语法"></a>butterfly主题markdown语法</h1><h1 id="多层显示"><a href="#多层显示" class="headerlink" title="多层显示"></a>多层显示</h1><div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">李白</button></li><li class="tab"><button type="button" data-href="#test1-2">辛弃疾</button></li><li class="tab"><button type="button" data-href="#test1-3">纳兰性德</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong>第一</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong>第二</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-3"><p><strong>第三</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tabs test1 %&#125;</span><br><span class="line">&lt;!-- tab 李白 --&gt;</span><br><span class="line">**第一**</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab 辛弃疾 --&gt;</span><br><span class="line">**第二**</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab 纳兰性德 --&gt;</span><br><span class="line">**第三**</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&#123;% endtabs %&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h1 id="按钮"><a href="#按钮" class="headerlink" title="按钮"></a>按钮</h1><div class="btn-center"><a class="btn-beautify larger" href="https://butterfly.js.org"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify blue larger" href="https://butterfly.js.org"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify pink larger" href="https://butterfly.js.org"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify red larger" href="https://butterfly.js.org"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify purple larger" href="https://butterfly.js.org"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify orange larger" href="https://butterfly.js.org"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify green larger" href="https://butterfly.js.org"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></div><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;btn-center&quot;</span>&gt;</span></span><br><span class="line">&#123;% btn &#x27;https://butterfly.js.org&#x27;,Butterfly,far fa-hand-point-right,larger %&#125;</span><br><span class="line">&#123;% btn &#x27;https://butterfly.js.org&#x27;,Butterfly,far fa-hand-point-right,blue larger %&#125;</span><br><span class="line">&#123;% btn &#x27;https://butterfly.js.org&#x27;,Butterfly,far fa-hand-point-right,pink larger %&#125;</span><br><span class="line">&#123;% btn &#x27;https://butterfly.js.org&#x27;,Butterfly,far fa-hand-point-right,red larger %&#125;</span><br><span class="line">&#123;% btn &#x27;https://butterfly.js.org&#x27;,Butterfly,far fa-hand-point-right,purple larger %&#125;</span><br><span class="line">&#123;% btn &#x27;https://butterfly.js.org&#x27;,Butterfly,far fa-hand-point-right,orange larger %&#125;</span><br><span class="line">&#123;% btn &#x27;https://butterfly.js.org&#x27;,Butterfly,far fa-hand-point-right,green larger %&#125;</span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure><h1 id="提示"><a href="#提示" class="headerlink" title="提示"></a>提示</h1><h2 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h2><h3 id="效果一"><a href="#效果一" class="headerlink" title="效果一"></a>效果一</h3><div class="note no-icon flat"><p>你是刷 Visa 还是 UnionPay</p></div><div class="note blue no-icon flat"><p>2021年快到了….</p></div><div class="note pink no-icon flat"><p>小心开车 安全至上</p></div><div class="note red no-icon flat"><p>这是三片呢？还是四片？</p></div><div class="note orange no-icon flat"><p>你是刷 Visa 还是 UnionPay</p></div><div class="note purple no-icon flat"><p>剪刀石头布</p></div><div class="note green no-icon flat"><p>前端最讨厌的浏览器</p></div><h3 id="效果二"><a href="#效果二" class="headerlink" title="效果二"></a>效果二</h3><div class="note flat"><p>默认 提示块标签</p></div><div class="note default flat"><p>default 提示块标签</p></div><div class="note primary flat"><p>primary 提示块标签</p></div><div class="note success flat"><p>success 提示块标签</p></div><div class="note info flat"><p>info 提示块标签</p></div><div class="note warning flat"><p>warning 提示块标签</p></div><div class="note danger flat"><p>danger 提示块标签</p></div><h2 id="实现方法"><a href="#实现方法" class="headerlink" title="实现方法"></a>实现方法</h2><h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">&#123;% note no-icon %&#125;</span><br><span class="line">你是刷 Visa 还是 UnionPay</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note blue no-icon %&#125;</span><br><span class="line">2021年快到了....</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note pink no-icon %&#125;</span><br><span class="line">小心开车 安全至上</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note red no-icon %&#125;</span><br><span class="line">这是三片呢？还是四片？</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note orange no-icon %&#125;</span><br><span class="line">你是刷 Visa 还是 UnionPay</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note purple no-icon %&#125;</span><br><span class="line">剪刀石头布</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note green no-icon %&#125;</span><br><span class="line">前端最讨厌的浏览器</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure><h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">&#123;% note flat %&#125;</span><br><span class="line">默认 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note default flat %&#125;</span><br><span class="line">default 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note primary flat %&#125;</span><br><span class="line">primary 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note success flat %&#125;</span><br><span class="line">success 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note info flat %&#125;</span><br><span class="line">info 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note warning flat %&#125;</span><br><span class="line">warning 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note danger flat %&#125;</span><br><span class="line">danger 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure><h1 id="行内代码"><a href="#行内代码" class="headerlink" title="行内代码"></a>行内代码</h1><p>臣亮言：<mark class="hl-label default">先帝</mark> 创业未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此诚<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈于内；<mark class="hl-label purple">忠志之士</mark> ，忘身于外者，盖追先帝之殊遇，欲报之于陛下也。诚宜开张圣听，以光先帝遗德，恢弘志士之气；不宜妄自菲薄，引喻失义，以塞忠谏之路也。<br>宫中、府中，俱为一体；陟罚臧否，不宜异同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及为忠善者，宜付有司，论其刑赏，以昭陛下平明之治；不宜偏私，使内外异法也。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">臣亮言：&#123;% label 先帝 %&#125;创业未半，而&#123;% label 中道崩殂 blue %&#125;。今天下三分，&#123;% label 益州疲敝 pink %&#125;，此诚&#123;% label 危急存亡之秋 red %&#125;也！然侍衞之臣，不懈于内；&#123;% label 忠志之士 purple %&#125;，忘身于外者，盖追先帝之殊遇，欲报之于陛下也。诚宜开张圣听，以光先帝遗德，恢弘志士之气；不宜妄自菲薄，引喻失义，以塞忠谏之路也。</span><br><span class="line">宫中、府中，俱为一体；陟罚臧否，不宜异同。若有&#123;% label 作奸 orange %&#125;、&#123;% label 犯科 green %&#125;，及为忠善者，宜付有司，论其刑赏，以昭陛下平明之治；不宜偏私，使内外异法也。</span><br></pre></td></tr></table></figure><h1 id="时间轴"><a href="#时间轴" class="headerlink" title="时间轴"></a>时间轴</h1><h3 id="默认颜色"><a href="#默认颜色" class="headerlink" title="默认颜色"></a>默认颜色</h3><div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2022</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>01-02</p></div></div><div class='timeline-item-content'><p>这是测试页面</p></div></div></div><h3 id="blue色"><a href="#blue色" class="headerlink" title="blue色"></a>blue色</h3><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2022</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>01-02</p></div></div><div class='timeline-item-content'><p>这是测试页面</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-22</p></div></div><div class='timeline-item-content'><p>这是测试页面</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>05-02</p></div></div><div class='timeline-item-content'><p>这是测试页面</p></div></div></div><h2 id="页面属性"><a href="#页面属性" class="headerlink" title="页面属性"></a>页面属性</h2><table><thead><tr><th>写法</th><th>解释</th></tr></thead><tbody><tr><td>title</td><td>【必需】页面标题</td></tr><tr><td>date</td><td>【必需】页面创建日期</td></tr><tr><td>type</td><td>【必需】标签、分类和友情链接三个页面需要配置</td></tr><tr><td>updated</td><td>【可选】页面更新日期</td></tr><tr><td>description</td><td>【可选】页面描述</td></tr><tr><td>keywords</td><td>【可选】页面关键字</td></tr><tr><td>comments</td><td>【可选】显示页面评论模块(默认 true)</td></tr><tr><td>top_img</td><td>【可选】页面顶部图片</td></tr><tr><td>mathjax</td><td>【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)</td></tr><tr><td>katex</td><td>【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)</td></tr><tr><td>aside</td><td>【可选】显示侧边栏 (默认 true)</td></tr><tr><td>aplayer</td><td>【可选】在需要的页面加载aplayer的js和css,请参考文章下面的<code>音乐</code> 配置</td></tr><tr><td>highlight_shrink</td><td>【可选】配置代码框是否展开(true&#x2F;false)(默认为设置中highlight_shrink的配置)</td></tr></tbody></table><h2 id="文章属性"><a href="#文章属性" class="headerlink" title="文章属性"></a>文章属性</h2><table><thead><tr><th align="center">写法</th><th>解释</th></tr></thead><tbody><tr><td align="center">title</td><td>【必需】文章标题</td></tr><tr><td align="center">date</td><td>【必需】文章创建日期</td></tr><tr><td align="center">updated</td><td>【可选】文章更新日期</td></tr><tr><td align="center">tags</td><td>【可选】文章标签</td></tr><tr><td align="center">categories</td><td>【可选】文章分类</td></tr><tr><td align="center">keywords</td><td>【可选】文章关键字</td></tr><tr><td align="center">description</td><td>【可选】文章描述</td></tr><tr><td align="center">top_img</td><td>【可选】文章顶部图片</td></tr><tr><td align="center">cover</td><td>【可选】文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false&#x2F;图片地址&#x2F;留空)</td></tr><tr><td align="center">comments</td><td>【可选】显示文章评论模块(默认 true)</td></tr><tr><td align="center">toc</td><td>【可选】显示文章TOC(默认为设置中toc的enable配置)</td></tr><tr><td align="center">toc_number</td><td>【可选】显示toc_number(默认为设置中toc的number配置)</td></tr><tr><td align="center">toc_style_simple</td><td>【可选】显示 toc 简洁模式</td></tr><tr><td align="center">copyright</td><td>【可选】显示文章版权模块(默认为设置中post_copyright的enable配置)</td></tr><tr><td align="center">copyright_author</td><td>【可选】文章版权模块的<code>文章作者</code></td></tr><tr><td align="center">copyright_author_href</td><td>【可选】文章版权模块的<code>文章作者</code>链接</td></tr><tr><td align="center">copyright_url</td><td>【可选】文章版权模块的<code>文章连结</code>链接</td></tr><tr><td align="center">copyright_info</td><td>【可选】文章版权模块的<code>版权声明</code>文字</td></tr><tr><td align="center">mathjax</td><td>【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)</td></tr><tr><td align="center">katex</td><td>【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)</td></tr><tr><td align="center">aplayer</td><td>【可选】在需要的页面加载aplayer的js和css,请参考文章下面的<code>音乐</code> 配置</td></tr><tr><td align="center">highlight_shrink</td><td>【可选】配置代码框是否展开(true&#x2F;false)(默认为设置中highlight_shrink的配置)</td></tr><tr><td align="center">aside</td><td>【可选】显示侧边栏 (默认 true)</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影资源 - 假如爱有天意 클래식 (2003)</title>
+      <link href="/2023/02/15/YSYY/jrayty/"/>
+      <url>/2023/02/15/YSYY/jrayty/</url>
+      
+        <content type="html"><![CDATA[<h1 id="假如爱有天意-클래식-2003"><a href="#假如爱有天意-클래식-2003" class="headerlink" title="假如爱有天意 클래식 (2003)"></a>假如爱有天意 클래식 (2003)</h1><p><a href="https://movie.douban.com/subject/1304073/photos?type=R"><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img2.doubanio.com/view/photo/s_ratio_poster/public/p479746811.webp" alt="클래식"></a></p><p>导演: <a href="https://movie.douban.com/celebrity/1275604/">郭在容</a><br>编剧: <a href="https://movie.douban.com/celebrity/1275604/">郭在容</a><br>主演: <a href="https://movie.douban.com/celebrity/1014295/">孙艺珍</a> &#x2F; <a href="https://movie.douban.com/celebrity/1005435/">曹承佑</a> &#x2F; <a href="https://movie.douban.com/celebrity/1023390/">赵寅成</a> &#x2F; <a href="https://movie.douban.com/celebrity/1028735/">李己雨</a> &#x2F; <a href="https://movie.douban.com/celebrity/1039946/">李香英</a> &#x2F; <a href="javascript:;">更多…</a><br>类型: 剧情 &#x2F; 爱情<br>制片国家&#x2F;地区: 韩国<br>语言: 韩语<br>上映日期: 2003-01-30<br>片长: 133分钟<br>又名: 缘起不灭(台) &#x2F; 不可不信缘 &#x2F; 爱有天意 &#x2F; 当爱经过时 &#x2F; The Classic &#x2F; Keulraesik<br>IMDb: tt0348568</p><hr><h1 id="剧照"><a href="#剧照" class="headerlink" title="剧照"></a>剧照</h1><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141729377.png" alt="jp230212155524"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141729457.png" alt="jp230212155512"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img2.doubanio.com/view/photo/l/public/p479390473.webp"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img9.doubanio.com/view/photo/l/public/p824895046.webp"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img9.doubanio.com/view/photo/l/public/p2468443264.webp"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img1.doubanio.com/view/photo/l/public/p2526686108.webp"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img9.doubanio.com/view/photo/l/public/p2604017894.webp"></p><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><blockquote><p> <strong>迅雷种子下载</strong></p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">magnet:?xt=urn:btih:45d3b778ee848188573074d81cce64f00da76cbf&amp;dn=1080p.BD%E4%B8%AD%E5%AD%97.mp4</span><br></pre></td></tr></table></figure><blockquote><p><strong>阿里云盘</strong></p></blockquote><p>假如爱有天意 <a href="https://www.aliyundrive.com/s/gz9Sm1T7AMe">https://www.aliyundrive.com/s/gz9Sm1T7AMe</a> 点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 影视影音 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电影 </tag>
+            
+            <tag> 爱情 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>快速免费的公用 CDN —— jsDelivr</title>
+      <link href="/2023/02/14/Web/freeCDN/"/>
+      <url>/2023/02/14/Web/freeCDN/</url>
+      
+        <content type="html"><![CDATA[<h1 id="快速免费的公用-CDN-——-jsDelivr-Rogn-博客园"><a href="#快速免费的公用-CDN-——-jsDelivr-Rogn-博客园" class="headerlink" title="快速免费的公用 CDN —— jsDelivr - Rogn - 博客园"></a>快速免费的公用 CDN —— jsDelivr - Rogn - 博客园</h1><blockquote><h2 id="Excerpt"><a href="#Excerpt" class="headerlink" title="Excerpt"></a>Excerpt</h2><p>CDN的全称是Content Delivery Network，即内容分发网络。CDN是构建在网络之上的内容分发网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用</p></blockquote><hr><p>CDN的全称是Content Delivery Network，即内容分发网络。CDN是构建在网络之上的内容分发网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。CDN的关键技术主要有内容存储和分发技术。——百度百科</p><p>由于某些原因，很多公用免费的 CDN 资源在中国大陆并不很好用，就算是付费的，也有一定的限制，例如每天的刷新次数有限之类的。那有没有一款造福人类的，或者造福中国大陆的公用 CDN 呢？</p><h2 id="jsDelivr"><a href="#jsDelivr" class="headerlink" title="jsDelivr"></a>jsDelivr</h2><p>先看看官方的介绍：</p><p><a href="https://img2018.cnblogs.com/i-beta/1365470/202001/1365470-20200119104921111-1131459704.png"><img src="https://img2018.cnblogs.com/i-beta/1365470/202001/1365470-20200119104921111-1131459704.png"></a></p><p>这是在中国大陆唯一有 license 的公有 CDN，而且实际使用中的访问速度也是极快的（虽然官网打开速度慢</p><h3 id="与-Github、NPM、WorldPress-整合"><a href="#与-Github、NPM、WorldPress-整合" class="headerlink" title="与 Github、NPM、WorldPress 整合"></a>与 Github、NPM、WorldPress 整合</h3><p>官网地址：<a href="https://liubing.me/goto/https://www.jsdelivr.com">https://www.jsdelivr.com</a> 没梯子访问可能有点慢，不过CDN的节点是很快的 可以引用的资源包括NPM、github、wordpress的所有资源，github可以是任意体积小于50M的仓库。</p><p>以github为例，只需要通过符合 JSDelivr 规则的 URL 引用，即可直接使用 Github 中的资源。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">// 用户名/仓库名@版本号/文件名</span><br><span class="line">https://cdn.jsdelivr.net/gh/user/repo@version/file</span><br><span class="line">// load jQuery v3.2.1</span><br><span class="line">https://cdn.jsdelivr.net/gh/jquery/jquery@3.2.1/dist/jquery.min.js</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">// 使用一个范围内的版本</span><br><span class="line">https://cdn.jsdelivr.net/gh/jquery/jquery@3.2/dist/jquery.min.js</span><br><span class="line">https://cdn.jsdelivr.net/gh/jquery/jquery@3/dist/jquery.min.js</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">// 忽略版本号则默认使用最新版</span><br><span class="line">// you should NOT use this in production</span><br><span class="line">https://cdn.jsdelivr.net/gh/jquery/jquery/dist/jquery.min.js</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">// 在任意JS/CSS文件后添加 .min 能得到一个缩小版</span><br><span class="line">// 如果它本身不存在，我们将会为你生成</span><br><span class="line">https://cdn.jsdelivr.net/gh/jquery/jquery@3.2.1/src/core.min.js</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">// 在末尾加 / 则得到目录列表</span><br><span class="line">https://cdn.jsdelivr.net/gh/jquery/jquery/</span><br></pre></td></tr></table></figure><p>详细规则参考官网：<a href="https://www.jsdelivr.com/">https://www.jsdelivr.com/</a></p><p>以我一张图片为例：</p><p>原github链接：<a href="https://raw.githubusercontent.com/growvv/img/master/images/20200118222911.jpeg">https://raw.githubusercontent.com/growvv/img/master/images/20200118222911.jpeg</a></p><p>CDN后的链接：<a href="https://cdn.jsdelivr.net/gh/growvv/img@master/images/20200118222911.jpeg">https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;growvv&#x2F;img@master&#x2F;images&#x2F;20200118222911.jpeg</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>除了<code>jsdelivr</code>， 推荐几个免费的且不限流量的CDN，还有 <code>staticaly</code> <code>githack</code> 都是全球通用的，</p><h1 id="staticaly"><a href="#staticaly" class="headerlink" title="staticaly"></a>staticaly</h1><p>官网地址：<a href="https://liubing.me/goto/https://www.staticaly.com">https://www.staticaly.com</a><br>轻松地从GitHub &#x2F; GitLab &#x2F; Bitbucket等加载您的项目 没有流量限制或限制。</p><p>文件通过超快速全球CDN提供。 在URL（不是分支）中使用特定标记或提交哈希。<br>根据URL永久缓存文件。 除master分支外，文件在浏览器中缓存1年。 具体用法：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"># GitHub CDN</span><br><span class="line">https://cdn.staticaly.com/gh/:user/:repo/:tag/:file</span><br><span class="line">https://cdn.staticaly.com/gh/growvv/growvv.github.io/master/README.md</span><br><span class="line"></span><br><span class="line"># GitLab CDN</span><br><span class="line">https://cdn.staticaly.com/gl/:user/:repo/:tag/:file</span><br><span class="line"></span><br><span class="line"># Bitbucket CDN</span><br><span class="line">https://cdn.staticaly.com/bb/:user/:repo/:tag/:file</span><br><span class="line"></span><br><span class="line"># WordPress CDN</span><br><span class="line">https://cdn.staticaly.com/wp/c/:version/wp-includes/:file  </span><br><span class="line">https://cdn.staticaly.com/wp/p/:plugin_name/:version/:file  </span><br><span class="line">https://cdn.staticaly.com/wp/t/:theme_name/:version/:file</span><br><span class="line"></span><br><span class="line"># Imgpx CDN</span><br><span class="line">https://cdn.staticaly.com/img/:image_url</span><br><span class="line"></span><br><span class="line"># Favicons CDN</span><br><span class="line">https://cdn.staticaly.com/favicons/:favicon_url</span><br></pre></td></tr></table></figure><h1 id="githack"><a href="#githack" class="headerlink" title="githack"></a>githack</h1><p>直接从GitHub，Bitbucket或GitLab提供原始文件<br>官网地址：<a href="https://liubing.me/goto/http://raw.githack.com">http://raw.githack.com/</a> 具体用法和上面的<code>staticaly</code>很类似</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># Github CDN</span><br><span class="line">//主分支</span><br><span class="line">https://rawcdn.githack.com/liub1934/LB-Blog/master/wp-content/themes/Memory/emoji/xiaodianshi/baiyan.png</span><br><span class="line"></span><br><span class="line">//版本分支</span><br><span class="line">https://rawcdn.githack.com/liub1934/LB-Blog/8806f440d3f9a7cc3e6125d7d75564e40262c6a8/wp-content/themes/Memory/emoji/xiaodianshi/baiyan.png</span><br></pre></td></tr></table></figure><p>参考链接：</p><p>1. <a href="https://segmentfault.com/a/1190000020239193">https://segmentfault.com/a/1190000020239193</a></p><p>2. <a href="https://blog.csdn.net/qq_36759224/article/details/86936453">https://blog.csdn.net/qq_36759224&#x2F;article&#x2F;details&#x2F;86936453</a></p><p>3. <a href="https://liubing.me/recommend-several-free-unlimited-cdns.html">https://liubing.me/recommend-several-free-unlimited-cdns.html</a></p><p>4. <a href="https://fileem.com/jsdelivr-free-public-cdn-acceleration-service">https://fileem.com/jsdelivr-free-public-cdn-acceleration-service</a></p><ul><li><p><a href="https://www.cnblogs.com/lfri/p/12212878.html#tid-aikCyH">jsDelivr</a></p></li><li><p><a href="https://www.cnblogs.com/lfri/p/12212878.html#tid-Z7bE3M">与 Github、NPM、WorldPress 整合</a></p></li><li><p><a href="https://www.cnblogs.com/lfri/p/12212878.html#tid-dCjmb6">其他</a></p></li><li><p><a href="https://www.cnblogs.com/lfri/p/12212878.html#tid-EAW8M4">staticaly</a></p></li><li><p><a href="https://www.cnblogs.com/lfri/p/12212878.html#tid-Ey3BNf">githack</a></p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+            <tag> blog </tag>
+            
+            <tag> CDN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>国内外主流的 Git 代码托管网站 (持续更新)</title>
+      <link href="/2023/02/14/Web/zlGit/"/>
+      <url>/2023/02/14/Web/zlGit/</url>
+      
+        <content type="html"><![CDATA[<h1 id="国内外主流的-Git-代码托管网站-持续更新"><a href="#国内外主流的-Git-代码托管网站-持续更新" class="headerlink" title="国内外主流的 Git 代码托管网站 (持续更新)"></a>国内外主流的 Git 代码托管网站 (持续更新)</h1><blockquote><h2 id="Excerpt"><a href="#Excerpt" class="headerlink" title="Excerpt"></a>Excerpt</h2><p>国内外主流的 Git 代码托管网站</p></blockquote><hr><h2 id="国内外主流的-Git-代码托管网站"><a href="#国内外主流的-Git-代码托管网站" class="headerlink" title="国内外主流的 Git 代码托管网站#"></a>国内外主流的 Git 代码托管网站<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E5%9B%BD%E5%86%85%E5%A4%96%E4%B8%BB%E6%B5%81%E7%9A%84-git-%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1%E7%BD%91%E7%AB%99">#</a></h2><p>国外的三大 Git 代码托管平台都支持 <code>DevOps</code>, 国内的主流托管平台均支持 <code>DevOps</code> 或者有条件(付费)支持.</p><h2 id="1-GitHub"><a href="#1-GitHub" class="headerlink" title="1. GitHub#"></a>1. GitHub<a href="https://www.cnblogs.com/jetsung/p/git-service.html#1-github">#</a></h2><ul><li><a href="https://github.com/">https://github.com</a></li></ul><h3 id="价格计划-免费版"><a href="#价格计划-免费版" class="headerlink" title="价格计划(免费版)#"></a>价格计划(免费版)<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E4%BB%B7%E6%A0%BC%E8%AE%A1%E5%88%92%E5%85%8D%E8%B4%B9%E7%89%88">#</a></h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">Free</span><br><span class="line">The basics for individuals</span><br><span class="line">and organizations</span><br><span class="line"></span><br><span class="line">Unlimited public/private repositories</span><br><span class="line"></span><br><span class="line">2,000 automation minutes/month</span><br><span class="line">Free for public repositories</span><br><span class="line"></span><br><span class="line">500MB of Packages storage</span><br><span class="line">Free for public repositories</span><br><span class="line"></span><br><span class="line">New Issues &amp; Projects (beta)</span><br><span class="line"></span><br><span class="line">Community support</span><br></pre></td></tr></table></figure><p>免费(个人)版支持无限个数的私有(或公有)仓库, 每月2000分钟的自动构建时长, 单仓库最大 500M.<br><strong>查看详情:</strong> <a href="https://github.com/pricing">https://github.com/pricing</a></p><h2 id="2-GitLab"><a href="#2-GitLab" class="headerlink" title="2. GitLab#"></a>2. GitLab<a href="https://www.cnblogs.com/jetsung/p/git-service.html#2-gitlab">#</a></h2><ul><li><a href="https://gitlab.com/">https://gitlab.com</a></li></ul><h3 id="价格计划-免费版-1"><a href="#价格计划-免费版-1" class="headerlink" title="价格计划(免费版)#"></a>价格计划(免费版)<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E4%BB%B7%E6%A0%BC%E8%AE%A1%E5%88%92%E5%85%8D%E8%B4%B9%E7%89%88-1">#</a></h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Spans the DevOps lifecycle</span><br><span class="line"></span><br><span class="line">Bring your own GitLab CI runners</span><br><span class="line"></span><br><span class="line">Includes free static websites</span><br><span class="line"></span><br><span class="line">400 CI/CD minutes per month </span><br></pre></td></tr></table></figure><p>免费(标准)版支持无限个数的私有(或公有)仓库, 每月400分钟的自动构建时长.<br><strong>查看详情:</strong> <a href="https://about.gitlab.com/pricing">https://about.gitlab.com/pricing</a></p><h2 id="3-Bitbucket"><a href="#3-Bitbucket" class="headerlink" title="3. Bitbucket#"></a>3. Bitbucket<a href="https://www.cnblogs.com/jetsung/p/git-service.html#3-bitbucket">#</a></h2><ul><li><a href="https://bitbucket.org/">https://bitbucket.org</a></li></ul><h3 id="价格计划-免费版-2"><a href="#价格计划-免费版-2" class="headerlink" title="价格计划(免费版)#"></a>价格计划(免费版)<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E4%BB%B7%E6%A0%BC%E8%AE%A1%E5%88%92%E5%85%8D%E8%B4%B9%E7%89%88-2">#</a></h3><h2 id="4-Gitee"><a href="#4-Gitee" class="headerlink" title="4. Gitee#"></a>4. Gitee<a href="https://www.cnblogs.com/jetsung/p/git-service.html#4-gitee">#</a></h2><ul><li><a href="https://gitee.com/">https://gitee.com</a></li></ul><h3 id="价格计划-免费版-3"><a href="#价格计划-免费版-3" class="headerlink" title="价格计划(免费版)#"></a>价格计划(免费版)<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E4%BB%B7%E6%A0%BC%E8%AE%A1%E5%88%92%E5%85%8D%E8%B4%B9%E7%89%88-3">#</a></h3><h2 id="5-阿里云效-Codeup"><a href="#5-阿里云效-Codeup" class="headerlink" title="5. 阿里云效 Codeup#"></a>5. 阿里云效 Codeup<a href="https://www.cnblogs.com/jetsung/p/git-service.html#5-%E9%98%BF%E9%87%8C%E4%BA%91%E6%95%88-codeup">#</a></h2><ul><li><a href="https://codeup.aliyun.com/">https://codeup.aliyun.com</a></li></ul><h3 id="价格计划-免费"><a href="#价格计划-免费" class="headerlink" title="价格计划(免费)#"></a>价格计划(免费)<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E4%BB%B7%E6%A0%BC%E8%AE%A1%E5%88%92%E5%85%8D%E8%B4%B9">#</a></h3><h3 id="6-Coding"><a href="#6-Coding" class="headerlink" title="6.Coding#"></a>6.Coding<a href="https://www.cnblogs.com/jetsung/p/git-service.html#6coding">#</a></h3><ul><li><a href="https://coding.net/">https://coding.net</a></li></ul><h3 id="价格计划-免费-1"><a href="#价格计划-免费-1" class="headerlink" title="价格计划(免费)#"></a>价格计划(免费)<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E4%BB%B7%E6%A0%BC%E8%AE%A1%E5%88%92%E5%85%8D%E8%B4%B9-1">#</a></h3><table><thead><tr><th>-</th><th>备注</th></tr></thead><tbody><tr><td>成员</td><td>不限</td></tr><tr><td>单仓库</td><td>2G</td></tr><tr><td>总仓库</td><td>100G</td></tr><tr><td>流水线</td><td>构建并发数量 1, 单次构建时间上限 30 分钟, 每月总构建时长 1,000 分钟</td></tr><tr><td>文件网盘</td><td>总容量 30G</td></tr><tr><td>制品仓库</td><td>总容量100G</td></tr><tr><td>不限人数，不限功能。免费使用代码托管、项目协同、CI&#x2F;CD、制品库等所有 CODING 基础产品服务，零成本开始您团队的研发协作管理。</td><td></td></tr><tr><td><strong>查看详情:</strong> <a href="https://coding.net/pricing">https://coding.net/pricing</a></td><td></td></tr></tbody></table><h2 id="7-极狐-JihuLab"><a href="#7-极狐-JihuLab" class="headerlink" title="7.极狐 JihuLab#"></a>7.极狐 JihuLab<a href="https://www.cnblogs.com/jetsung/p/git-service.html#7%E6%9E%81%E7%8B%90-jihulab">#</a></h2><ul><li><a href="https://jihulab.com/">https://jihulab.com</a><br>GitLab 中国版, 免费(标准)版支持无限个数的私有(或公有)仓库, 每月400分钟的自动构建时长. （基本参数与 <strong>GitLab</strong> 对齐）</li></ul><p>DevOps全生命周期所有阶段<br>自带极狐GitLab CI运行器<br>支持任意生产环境部署<br>免费静态网站<br>获取每月400分钟的CI&#x2F;CD流水线时间<br>每个项目代码仓库容量 2GB</p><p><strong>查看详情:</strong> <a href="https://about.gitlab.cn/pricing">https://about.gitlab.cn/pricing</a></p><hr><h2 id="以下全部均不包含-DevOps-功能的代码托管平台"><a href="#以下全部均不包含-DevOps-功能的代码托管平台" class="headerlink" title="以下全部均不包含 DevOps 功能的代码托管平台#"></a>以下全部均不包含 <code>DevOps</code> 功能的代码托管平台<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E4%BB%A5%E4%B8%8B%E5%85%A8%E9%83%A8%E5%9D%87%E4%B8%8D%E5%8C%85%E5%90%AB-devops-%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0">#</a></h2><hr><h3 id="腾讯工峰"><a href="#腾讯工峰" class="headerlink" title="腾讯工峰#"></a>腾讯工峰<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E8%85%BE%E8%AE%AF%E5%B7%A5%E5%B3%B0">#</a></h3><ul><li><a href="https://git.code.tencent.com/">https://git.code.tencent.com</a><br>纯代码托管平台. 配置参数未知, 但像是不限用户数,不限组织个数.</li></ul><h3 id="阿里-Code-（官方已公告提示升级至阿里codeup）"><a href="#阿里-Code-（官方已公告提示升级至阿里codeup）" class="headerlink" title="阿里 Code （官方已公告提示升级至阿里codeup）#"></a>阿里 Code （官方已公告提示升级至阿里codeup）<a href="https://www.cnblogs.com/jetsung/p/git-service.html#%E9%98%BF%E9%87%8C-code-%E5%AE%98%E6%96%B9%E5%B7%B2%E5%85%AC%E5%91%8A%E6%8F%90%E7%A4%BA%E5%8D%87%E7%BA%A7%E8%87%B3%E9%98%BF%E9%87%8Ccodeup">#</a></h3><ul><li><a href="https://code.aliyun.com/">https://code.aliyun.com</a><br>阿里云魔改 GitLab 版，最多 50 个项目。纯代码托管平台。</li></ul><h3 id="Gitea"><a href="#Gitea" class="headerlink" title="Gitea#"></a>Gitea<a href="https://www.cnblogs.com/jetsung/p/git-service.html#gitea">#</a></h3><ul><li><a href="https://gitea.com/">https://gitea.com</a><br>每人(或每组织)仅限5个仓库数. (非企业运营, 服务不稳定)</li></ul><hr><blockquote><p>以下几个是基于 <strong><code>GitLab / Gogs / Gitea</code></strong> 的第三方托管平台, 不含 <code>DevOps</code> 服务. 个别平台还是挺稳定的.</p></blockquote><h3 id="GitLink-x2F-Trustie"><a href="#GitLink-x2F-Trustie" class="headerlink" title="GitLink &#x2F; Trustie#"></a>GitLink &#x2F; Trustie<a href="https://www.cnblogs.com/jetsung/p/git-service.html#gitlink--trustie">#</a></h3><ul><li><a href="https://code.gitlink.org.cn/">https://code.gitlink.org.cn</a></li><li><a href="https://git.trustie.net/">https://git.trustie.net</a> (域名已跳转至上述地址)<br>基于 <code>Gitea</code>, 国防科技大学 GitLink 团队(维护). 应该也稳定.<br><strong><a href="https://www.gitlink.org.cn/register">注册入口</a></strong></li></ul><h3 id="Framagit-（推荐）"><a href="#Framagit-（推荐）" class="headerlink" title="Framagit （推荐）#"></a>Framagit （推荐）<a href="https://www.cnblogs.com/jetsung/p/git-service.html#framagit-%E6%8E%A8%E8%8D%90">#</a></h3><ul><li><a href="https://framagit.org/">https://framagit.org</a><br>法国公司，基于 <code>GitLab</code> ，站点在德国，网速不错。</li></ul><h3 id="Codeberg-（推荐）"><a href="#Codeberg-（推荐）" class="headerlink" title="Codeberg （推荐）#"></a>Codeberg （推荐）<a href="https://www.cnblogs.com/jetsung/p/git-service.html#codeberg-%E6%8E%A8%E8%8D%90">#</a></h3><ul><li><a href="https://codeberg.org/">https://codeberg.org</a><br>基于 <code>Gitea</code>，欧盟(德国)开发者维护，速度还不错。</li></ul><hr><blockquote><p>以下平台可能创建不久, 亦或一些小公司或组织维护, 稳定和安全性待确认.</p></blockquote><h3 id="NotABug"><a href="#NotABug" class="headerlink" title="NotABug#"></a>NotABug<a href="https://www.cnblogs.com/jetsung/p/git-service.html#notabug">#</a></h3><ul><li><a href="https://notabug.org/">https://notabug.org</a><br>基于 <code>Gogs</code></li></ul><h3 id="Agit"><a href="#Agit" class="headerlink" title="Agit#"></a>Agit<a href="https://www.cnblogs.com/jetsung/p/git-service.html#agit">#</a></h3><ul><li><a href="https://agit.ai/">https://agit.ai</a><br>基于 <code>Gitea</code></li></ul><h3 id="CSDN"><a href="#CSDN" class="headerlink" title="CSDN#"></a>CSDN<a href="https://www.cnblogs.com/jetsung/p/git-service.html#csdn">#</a></h3><ul><li><a href="https://gitcode.net/">https://gitcode.net</a></li><li><del><a href="https://codechina.csdn.net/">https://codechina.csdn.net</a></del> (已启用上述新域名)<br>基于 <code>GitLab</code>，曾经运营过 <code>code.csdn.net</code>，后来关停了。此次再重来，建议谨慎使用。（2022.03.17 提示，该平台首页推荐已有一个月未更新）</li></ul><hr><ul><li>最后更新: 2022 - 01 - 08</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> code </tag>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PS 2023 安装教程</title>
+      <link href="/2023/02/13/RJ/PS2023/"/>
+      <url>/2023/02/13/RJ/PS2023/</url>
+      
+        <content type="html"><![CDATA[<h1 id="PS-2023-安装教程"><a href="#PS-2023-安装教程" class="headerlink" title="PS 2023 安装教程"></a>PS 2023 安装教程</h1><blockquote><p><strong>百度网盘链接</strong></p><p><a href="https://pan.baidu.com/s/1mjHM50IskAMraTv3LfyXVw?pwd=56vb">https://pan.baidu.com/s/1mjHM50IskAMraTv3LfyXVw?pwd=56vb</a> </p><p>提取码: 56vb</p><p>解压密码：@vposy</p></blockquote><img src="https://jihulab.com/dengbowang/img/-/raw/main/img/jp230107224224.png" alt="jp230107224224"  /><h3 id="1、获取安装包"><a href="#1、获取安装包" class="headerlink" title="1、获取安装包"></a>1、获取安装包</h3><img src="https://jihulab.com/dengbowang/img/-/raw/main/img/jp230108150732.png" alt="jp230108150732" style="zoom:80%;" /><img src="https://jihulab.com/dengbowang/img/-/raw/main/img/jp230108145745.png" alt="jp230108145745" style="zoom: 67%;" /><h3 id="2、解压安装包"><a href="#2、解压安装包" class="headerlink" title="2、解压安装包"></a>2、解压安装包</h3><img src="https://jihulab.com/dengbowang/img/-/raw/main/img/jp230108150021.png" alt="jp230108150021" style="zoom:67%;" /><h3 id="3、双击打开PS安装器"><a href="#3、双击打开PS安装器" class="headerlink" title="3、双击打开PS安装器"></a>3、双击打开PS安装器</h3><img src="https://jihulab.com/dengbowang/img/-/raw/main/img/jp230108150337.png" alt="jp230108150337" style="zoom: 67%;" /><h3 id="4、开始安装"><a href="#4、开始安装" class="headerlink" title="4、开始安装"></a>4、开始安装</h3><img src="https://jihulab.com/dengbowang/img/-/raw/main/img/jp230108150532.png" alt="230107220459" style="zoom: 80%;" />]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑软件 </tag>
+            
+            <tag> 图像处理 </tag>
+            
+            <tag> Adobe </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>解决github图片无法加载</title>
+      <link href="/2023/02/13/Web/githubimgcdn/"/>
+      <url>/2023/02/13/Web/githubimgcdn/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1、Weserv"><a href="#1、Weserv" class="headerlink" title="1、Weserv"></a>1、Weserv</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://images.weserv.nl/?url=</span><br></pre></td></tr></table></figure><p><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/dengbowang/img/main/img/jp230212140720.png"></p><h2 id="2、JSCDN【失效】"><a href="#2、JSCDN【失效】" class="headerlink" title="2、JSCDN【失效】"></a>2、JSCDN【失效】</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://cdn.jsdelivr.net/gh/</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/dengbowang/img/main/img/jp230212140720.png"></p><h2 id="3、Staticaly"><a href="#3、Staticaly" class="headerlink" title="3、Staticaly"></a>3、Staticaly</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://cdn.staticaly.com/gh/</span><br></pre></td></tr></table></figure><h1 id="4、unpkg【失效】"><a href="#4、unpkg【失效】" class="headerlink" title="4、unpkg【失效】"></a>4、unpkg【失效】</h1><p><a href="https://unpkg.com/">https://unpkg.com/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+            <tag> code </tag>
+            
+            <tag> github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>洛雪音乐助手（五音助手PC版）pc&amp;安卓-畅听全网music</title>
+      <link href="/2023/02/12/RJ/lxmusic/"/>
+      <url>/2023/02/12/RJ/lxmusic/</url>
+      
+        <content type="html"><![CDATA[<h1 id="洛雪音乐助手（五音助手PC版）"><a href="#洛雪音乐助手（五音助手PC版）" class="headerlink" title="洛雪音乐助手（五音助手PC版）"></a>洛雪音乐助手（五音助手PC版）</h1><ul><li>畅听音乐无阻</li><li>各大音乐平台多合一</li><li>支持下载音乐</li></ul><h3 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h3><p>一个基于 Electron + Vue 开发的音乐软件。</p><p>所用技术栈：</p><ul><li>Electron 15+</li><li>Vue 3</li></ul><p>已支持的平台：</p><ul><li>Windows 7 及以上</li><li>Mac OS</li><li>Linux</li></ul><p>软件变化请查看：<a href="https://github.com/lyswhut/lx-music-desktop/blob/master/CHANGELOG.md">更新日志</a><br>软件下载请转到：<a href="https://github.com/lyswhut/lx-music-desktop/releases">发布页面</a><br>或者到网盘下载（网盘内有MAC、windows版）：<code>https://www.lanzoui.com/b0bf2cfa/</code> 密码：<code>glqw</code>（若链接无法打开请百度：蓝奏云链接打不开）<br>使用常见问题请转至：<a href="https://lyswhut.github.io/lx-music-doc/desktop/faq">常见问题</a></p><hr><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/78fc5f7b33dc46149a9d5c1f08efc876.png" alt="在这里插入图片描述"><br><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/04865288c59a41a5a2f557eb1a562396.png" alt="在这里插入图片描述"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/4ddb2b246d8d41d6b9da4856d9d71277.png" alt="在这里插入图片描述"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/88ec1c2b325e494c8b199a7b6434397e.png" alt="在这里插入图片描述"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/487b60edb2104d3caa1a278298548670.png" alt="在这里插入图片描述"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑软件 </category>
+          
+          <category> 安卓软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑软件 </tag>
+            
+            <tag> 安卓软件 </tag>
+            
+            <tag> 影视影音 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图片镜像缓存服务—防盗链图片、imgur 等国内无法访问图片的解决方案</title>
+      <link href="/2023/02/12/Web/tcjx/"/>
+      <url>/2023/02/12/Web/tcjx/</url>
+      
+        <content type="html"><![CDATA[<p><strong><a href="https://images.weserv.nl/">https://images.weserv.nl</a> 是一款图片镜像缓存服务</strong>，原用于加速图片访问，但有时候有很多妙用。</p><p>比如 imgur 等国内无法访问图床的图片，使用它就能够访问了。</p><blockquote><p>图片镜像缓存服务可以用来做什么？</p></blockquote><ul><li>可以将有防盗链的图片引用到网页，并成功显示。</li><li>可以将 http 图片引用到 https 页面而不出现证书问题。</li><li>可以将 xxx 的图片，成功加载。</li><li>可以将比较慢的图片资源，加快显示。</li></ul><p>使用方法：</p><p><code>https://images.weserv.nl/?url=原始图片链接</code></p><p>例如：</p><p><code>https://i1.funletu.com/img/Jvh1OQm.jpg</code></p><p>效果：</p><p><img src="https://images.weserv.nl/?url=https://i1.funletu.com/img/unnamed-file.jpg"></p><p>又比如一些防盗链网站的图片是无法直接放在自己的博客上使用的，例如知乎、微信等，但图片地址上加上镜像缓存服务就可以了。</p><p>示例：</p><p><code>https://mmbiz.qpic.cn/mmbiz_png/do0Sayk3PeZBUlWW7NQHX6kicGI0Nf60TYW8A1OIbxKxhURmESZMs0bQzss1pibdJPB62yys3qwNIaZ3VtMYJVug/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1</code></p><p><img src="https://i1.funletu.com/img/Snipaste_2021-08-29_09-48-16.png"></p><p>转换后：</p><p><code>https://images.weserv.nl/?url=mmbiz.qpic.cn/mmbiz_png/do0Sayk3PeZBUlWW7NQHX6kicGI0Nf60TYW8A1OIbxKxhURmESZMs0bQzss1pibdJPB62yys3qwNIaZ3VtMYJVug/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1</code></p><p><img src="https://images.weserv.nl/?url=https://i1.funletu.com/img/640.jpg" alt="图片"></p><p>这样转换后，放在网站中就可以正常显示了</p><p>以下是网络中收集的一些<strong>图片镜像缓存服务</strong>，持续更新。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">https://img.noobzone.ru/getimg.phpurl=</span><br><span class="line"></span><br><span class="line">https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=</span><br><span class="line"></span><br><span class="line">https://ip.webmasterapi.com/api/imageproxy/https://images.weserv.nl/?url=</span><br><span class="line"></span><br><span class="line">https://pic1.xuehuaimg.com/proxy/https://search.pstatic.net/common?src=</span><br></pre></td></tr></table></figure><p>部分服务图片链接可以不添加 <code>http://</code> 或 <code>https://</code> 协议。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">https://ip.webmasterapi.com/api/imageproxy/</span><br><span class="line"></span><br><span class="line">https://i.imgur.com/hWghm6oh.jpg</span><br><span class="line"></span><br><span class="line">https://images.weserv.nl/?url=i.imgur.com/hWghm6oh.jpg</span><br><span class="line"></span><br><span class="line">https://pic1.xuehuaimg.com/proxy/i.imgur.com/hWghm6oh.jpg</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>点点赞赏，手留余香</p><p>还没有人赞赏，快来当第一个赞赏的人吧！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+            <tag> blog </tag>
+            
+            <tag> 图床 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Listen 1 -pc&amp;安卓-畅听全网music</title>
+      <link href="/2023/02/11/RJ/Listen%201/"/>
+      <url>/2023/02/11/RJ/Listen%201/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Listen-1"><a href="#Listen-1" class="headerlink" title="Listen 1"></a>Listen 1</h1><p>Listen 1可以搜索和播放来自<strong>网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐</strong>网站的歌曲，让你的曲库更全面。</p><h4 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h4><ul><li>多平台支持</li><li>畅听各大平台音乐</li><li>支持网易、QQ、咕咪账号同步</li></ul><p><a href="https://listen1.github.io/listen1/">Listen 1官网直达</a>👈<br><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/3963b67a66f04104867ef0e8e1b1c814.png" alt="在这里插入图片描述"><br><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/2ef912e7dc004455ad602e6a178b8889.png" alt="在这里插入图片描述"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/fa46ea60531e4e85bb4b88fb1b01f7f3.png" alt="在这里插入图片描述"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/6eb903e079714cf292ccbdee05e75e17.png" alt="在这里插入图片描述"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑软件 </category>
+          
+          <category> 安卓软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑软件 </tag>
+            
+            <tag> 安卓软件 </tag>
+            
+            <tag> 影视影音 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>360zip | 国际版 良心软件；纯净无任何捆绑</title>
+      <link href="/2023/02/07/RJ/360zip/"/>
+      <url>/2023/02/07/RJ/360zip/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/people/dengbowang">立方体Cube</a></p><p>发现问题；解决问题。发现快乐；分享快乐。</p><h2 id="360压缩包国际版绝对是个良心软件"><a href="#360压缩包国际版绝对是个良心软件" class="headerlink" title="360压缩包国际版绝对是个良心软件"></a>360压缩包国际版绝对是个良心软件</h2><p><strong>360国际版</strong>的产品应该都不差</p><p>大家可以去试试</p><p>安全卫士我反正不需要</p><p>我的数据不值钱</p><p><a href="https://link.zhihu.com/?target=https://www.360totalsecurity.com/zh-cn/360zip/">360 Total Security | 下载免费防毒软件www.360totalsecurity.com/zh-cn/360zip/<img src="https://pic2.zhimg.com/v2-1d49fab96802f9b6e6e3df7d5bf9bed1_ipico.jpg"></a></p><p><img src="https://pic1.zhimg.com/v2-010da2ea1e235fce237d88cada64342c_b.jpg"></p><p>360国际版官网</p><p><img src="https://pic3.zhimg.com/v2-1db8cd1c75956664324106f4b3fb46ee_b.jpg"></p><h2 id="360zip-国际版-VS-360zip"><a href="#360zip-国际版-VS-360zip" class="headerlink" title="360zip 国际版 VS 360zip"></a>360zip 国际版 VS 360zip</h2><p><img src="https://pic4.zhimg.com/v2-ef4443268028ef1bcd9608540b62649f_b.jpg"></p><p>左侧为国际版 | 右侧为普通版</p><p><img src="https://pic2.zhimg.com/v2-9f5835a84eb289576007000be34dd571_b.jpg"></p><p>左侧为国际版 | 右侧为普通版</p><h3 id="左边看起来就很简约"><a href="#左边看起来就很简约" class="headerlink" title="左边看起来就很简约"></a>左边看起来就很简约</h3><h3 id="右边的界面；我看着有点心理阴影"><a href="#右边的界面；我看着有点心理阴影" class="headerlink" title="右边的界面；我看着有点心理阴影"></a>右边的界面；我看着有点心理阴影</h3><p><img src="https://pic3.zhimg.com/v2-70a13a9709df00adcdd1c5f09b8c52e6_b.jpg"></p><p><img src="https://pic4.zhimg.com/v2-1348c1008a707b6c2614ea4ae97aaa67_b.jpg"></p><p>右击文件的情况</p><p><img src="https://pic4.zhimg.com/v2-c3c9052afad4bd7ab7073d91bf8d313f_b.jpg"></p><p>支持多语言</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑软件 </tag>
+            
+            <tag> 资源管理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>3D动态烟花 字幕修改and音乐修改</title>
+      <link href="/2023/01/25/Web/3dyanhua/"/>
+      <url>/2023/01/25/Web/3dyanhua/</url>
+      
+        <content type="html"><![CDATA[<h1 id="3D动态烟花-字幕修改and音乐修改"><a href="#3D动态烟花-字幕修改and音乐修改" class="headerlink" title="3D动态烟花 字幕修改and音乐修改"></a><strong>3D动态烟花 字幕修改and音乐修改</strong></h1><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522478.gif" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522147.png" alt="图片"></p><h2 id="一、字幕修改"><a href="#一、字幕修改" class="headerlink" title="一、字幕修改"></a><strong>一、字幕修改</strong></h2><p>解压文件；进入文件夹内；进入js文件夹内</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522755.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522096.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522021.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141523342.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141523247.png" alt="图片"></p><p>修改成功</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522940.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141523105.png" alt="图片"></p><h2 id="二、音乐修改"><a href="#二、音乐修改" class="headerlink" title="二、音乐修改"></a><strong>二、音乐修改</strong></h2><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522172.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522211.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522375.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522055.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522820.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522863.png" alt="图片"></p><h2 id="三、edge浏览器无法自动播放音乐and页面无声解决方案"><a href="#三、edge浏览器无法自动播放音乐and页面无声解决方案" class="headerlink" title="三、edge浏览器无法自动播放音乐and页面无声解决方案"></a><strong>三、edge浏览器无法自动播放音乐and页面无声解决方案</strong></h2><p>浏览器一般默认禁用媒体自动播放</p><p>页面要是没声音；就进入浏览器设置一下</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522869.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522811.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141522342.png" alt="图片"></p><p>源码获取1：微信公众号回复“烟花”</p><p>源码获取2：<a href="https://github.com/dengbowang/code">https://github.com/dengbowang/code</a></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141521555.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+            <tag> code </tag>
+            
+            <tag> 程序员的浪漫 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华为悦盒EC6108V9C刷成小型服务器和NAS</title>
+      <link href="/2023/01/16/OS/hwhz/"/>
+      <url>/2023/01/16/OS/hwhz/</url>
+      
+        <content type="html"><![CDATA[<h1 id="华为悦盒EC6108V9C刷成小型服务器和NAS"><a href="#华为悦盒EC6108V9C刷成小型服务器和NAS" class="headerlink" title="华为悦盒EC6108V9C刷成小型服务器和NAS"></a>华为悦盒EC6108V9C刷成小型服务器和NAS</h1><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/e9f36c25f33e457a9d500a72822a92f4.png" alt="在这里插入图片描述"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/10d42da606494f59ad85751e21ba351d.jpeg#pic_center" alt="在这里插入图片描述"><br><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/87621580235e415698731dde6d58f0fd.jpeg#pic_center" alt="在这里插入图片描述"></p><hr><h1 id="机顶盒参数"><a href="#机顶盒参数" class="headerlink" title="机顶盒参数"></a>机顶盒参数</h1><p>架构：arm7<br>系统：ubuntu 20.04.5 32位<br>CPU：hi3798mv100<br>内存:1G<br>存储：8G</p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/9c31d4f5b2e44983809ab0360035a2d7.png" alt="在这里插入图片描述"></p><h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/576d7581ced1434d83488eb1f84a60cb.png" alt="在这里插入图片描述"></h2><h1 id="重点！！！"><a href="#重点！！！" class="headerlink" title="重点！！！"></a>重点！！！</h1><h3 id="刷机视频-！！！👈"><a href="#刷机视频-！！！👈" class="headerlink" title="刷机视频 ！！！👈"></a><a href="https://www.bilibili.com/video/BV1wd4y1d7BR/?spm_id_from=333.999.0.0&vd_source=d603bafbe46aebcff52c457fbe607bb4">刷机视频 ！！！</a>👈</h3><h3 id="系统固件！！！👈"><a href="#系统固件！！！👈" class="headerlink" title="系统固件！！！👈"></a><a href="https://www.ecoo.top/">系统固件！！！</a>👈</h3><hr><h1 id="这是我在盒子上挂的博客；看起来不错吧"><a href="#这是我在盒子上挂的博客；看起来不错吧" class="headerlink" title="这是我在盒子上挂的博客；看起来不错吧"></a>这是我在盒子上挂的博客；看起来不错吧</h1><p><a href="http://dengbowang.fgimaxl2.vipnps.vip/">博客地址（欢迎访问）</a>👈</p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/f72902e2e0124d02b7e1b256602eb59f.png" alt="在这里插入图片描述"></p><h1 id="盒子固件刷好之后的软件安装"><a href="#盒子固件刷好之后的软件安装" class="headerlink" title="盒子固件刷好之后的软件安装"></a>盒子固件刷好之后的软件安装</h1><h2 id="一、安装docker管理工具"><a href="#一、安装docker管理工具" class="headerlink" title="一、安装docker管理工具"></a>一、安装docker管理工具</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL https://get.casaos.io | sudo bash</span><br></pre></td></tr></table></figure><p><a href="https://casaos.io/">CasaOs</a><br><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/8f221382036e45529da0fec135dd4c0a.png" alt="在这里插入图片描述"></p><h2 id="二、安装各种软件"><a href="#二、安装各种软件" class="headerlink" title="二、安装各种软件"></a>二、安装各种软件</h2><p><a href="https://hub.docker.com/r/halohub/halo">halohub&#x2F;halo - Docker容器地址</a></p><p><a href="https://docs.halo.run/">Halo博客官网</a></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/763eee3eed194417b0f4375cb87f5768.png" alt="在这里插入图片描述"><br><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/069162b245a44e169325c6fa39a8a05c.png" alt="在这里插入图片描述"></p><h2 id="三、内网穿透"><a href="#三、内网穿透" class="headerlink" title="三、内网穿透"></a>三、内网穿透</h2><p><a href="https://www.fgnwct.com/help/linux.html">Linux -启动方式 · 飞鸽内网穿使用教程 (fgnwct.com)</a></p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#解压</span></span><br><span class="line">tar -zxvf linux_amd64_client.tar.gz</span><br><span class="line"><span class="comment">#进入到目录</span></span><br><span class="line"><span class="built_in">cd</span> linux_amd64_client</span><br><span class="line"><span class="comment">#赋予权限</span></span><br><span class="line">sudo <span class="built_in">chmod</span> +x npc </span><br><span class="line"><span class="comment">#启动命令</span></span><br><span class="line">./npc -server=xxxxx -vkey=xxxx</span><br></pre></td></tr></table></figure><h2 id="设置自启"><a href="#设置自启" class="headerlink" title="设置自启"></a>设置自启</h2><p>可以看他</p><p><a href="https://blog.csdn.net/feiying0canglang/article/details/124695749">Ubuntu20.04–开机自动运行脚本(命令)– 自动启动脚本]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> OS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>侠盗猎车手罪恶都市 圣安地列斯下载链接</title>
+      <link href="/2023/01/05/game/xdlc/"/>
+      <url>/2023/01/05/game/xdlc/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/ba1481c09e7db7077297ae26184cd81d.png" alt="img"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/cfa22f8191bedeec9da94acaac76cdad.png" alt="img"></p><p>先给大家抛个问题</p><p>说出除了家乡和学校的那个城市；你还熟悉那个城市？</p><p>✋我来回答：那必须得是罪恶都市和圣安地列斯啊！</p><p>最近在寻找<strong>怀旧游戏</strong></p><p>想起来小时候必玩的侠盗系列游戏</p><p>然后问题来了；<strong>去哪里找呢？</strong></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/fe728ce2649082818d604cdc33640850.png" alt="img"></p><p><strong>游侠网下载页面！！！没了</strong></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/00de7e5687a16a6a76dff36437195eef.png" alt="img"></p><p>我就继续找下载地址</p><p>确实找到一个</p><p>不过</p><p>就在安装软件的时候；我遇到了<strong>360全家桶</strong></p><p>这真是祸不单行</p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/814789fe508555ece0189812329cb1f2.png" alt="img"></p><p>最后我来到了<strong>哔哩哔哩</strong></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/710452ce7077f89b5bc71f50444f28ad.png" alt="img">果然找到了</p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/b1ff181dca09a90544bd226ea7143f6f.png" alt="img"></p><p>问题就是🙃</p><p>游戏全是用<img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/53d56af746c6d0ce9b202662f1dbf8c0.png" alt="img">速<strong>百度网盘</strong>分享的。</p><hr><p>哈哈哈；我已近下载好了</p><p><strong>我已近上传其他不限速的网盘了</strong></p><p>接着我就在哔哩哔哩分享高速下载游戏链接</p><p>不知道为什么，我上传就违规了😅</p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/84b73f68df6946d64debee40f5679e8d.png" alt="img"></p><h2 id="ZEDS"><a href="#ZEDS" class="headerlink" title="ZEDS"></a>ZEDS</h2><p>第一个压缩包是游戏–解压打开就能玩</p><p>后面两个；是优化补丁和汉化包</p><p><strong>【使用方法】</strong>把优化补丁和汉化包内的所有文件移动到游戏根目录下；遇到同名文件点击<strong>替换</strong></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/c6285dda3e2df0709bca50662ebdea87.png" alt="img"></p><h2 id="SADLS"><a href="#SADLS" class="headerlink" title="SADLS"></a>SADLS</h2><p>第一个压缩包是游戏–解压打开就能玩</p><p>后面两个；是优化补丁和汉化包</p><p><strong>【使用方法】</strong>把优化补丁和汉化包内的所有文件移动到游戏根目录下；遇到同名文件点击<strong>替换</strong></p><p><strong>！！！打开游戏时不是全屏；等进去就是全屏了！！！</strong></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/img_convert/d38ede900ed64bd7e33252f474491da2.png" alt="img"></p><h1 id="获取游戏链接"><a href="#获取游戏链接" class="headerlink" title="获取游戏链接"></a>获取游戏链接</h1><p>关注微信公众号“立方体Cube”回复“zeds”或“sadls”获取下载链接</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> game </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 游戏 </tag>
+            
+            <tag> steam </tag>
+            
+            <tag> 绿色版 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>抖音视频无水印下载；无视不可下载！</title>
+      <link href="/2023/01/02/JC/dyxz/"/>
+      <url>/2023/01/02/JC/dyxz/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p> <strong>此方法通过本地寻找本地缓存下载视频</strong></p><p> <strong>下载的视频仅供学习、交流、分享</strong></p><p> <strong>禁止盗用；支持原创</strong></p></blockquote><h1 id="1、打开抖音网页版"><a href="#1、打开抖音网页版" class="headerlink" title="1、打开抖音网页版"></a>1、打开抖音网页版</h1><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/f6c8be7ea40d4ddcab58fd4821510b5b.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><h1 id="2、右击网页空白处、进入检查页面"><a href="#2、右击网页空白处、进入检查页面" class="headerlink" title="2、右击网页空白处、进入检查页面"></a>2、右击网页空白处、进入检查页面</h1><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/58d931985b7741829f6ab0c19a967deb.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><h1 id="3、点击网络选项卡、筛选媒体"><a href="#3、点击网络选项卡、筛选媒体" class="headerlink" title="3、点击网络选项卡、筛选媒体"></a>3、点击网络选项卡、筛选媒体</h1><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/09f726b478b245b9b43160382e4f57df.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><h1 id="4、右击名称下面的链接并“在新标签页中打开”"><a href="#4、右击名称下面的链接并“在新标签页中打开”" class="headerlink" title="4、右击名称下面的链接并“在新标签页中打开”"></a>4、右击名称下面的链接并“在新标签页中打开”</h1><blockquote><p>如果没有可以尝试刷新网页</p></blockquote><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/17c2e080829f422da03c56cafd21ba2d.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><h1 id="5、点击右下角三个点进行下载"><a href="#5、点击右下角三个点进行下载" class="headerlink" title="5、点击右下角三个点进行下载"></a>5、点击右下角三个点进行下载</h1><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/b39941afa0124201832cfcf99f29f216.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/cb13604f94284ef3a4a8588b3324ddbf.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/3214cab4f8cf4ebe92fca41a51dfe587.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><h1 id="6、本地播放、完美"><a href="#6、本地播放、完美" class="headerlink" title="6、本地播放、完美"></a>6、本地播放、完美</h1><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/414c994f1e984652986940f9ad1e4596.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><blockquote><h1 id="！有没有可以一键获取视频的方法？"><a href="#！有没有可以一键获取视频的方法？" class="headerlink" title="！有没有可以一键获取视频的方法？"></a>！有没有可以一键获取视频的方法？</h1><p>我的回答是；当然有；还有很多。</p><p>市面上有很多下载器都支持一键获取视频。</p><p>比如：<strong>IDM、NDM、XDM</strong>、迅雷之类的下载器</p><p>使用之前记得安装扩展并打开哦！</p></blockquote><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/adf2ae1f3397411cbf77ea5a41c881c3.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/53b2870702594f379bc5627017542aeb.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/de4a24e80de1445abe30685bf338bef2.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 后端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+            <tag> 抖音 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Ubuntu用SSH远程工具默认用root用户连接；解决SSH不能用root用户连接。</title>
+      <link href="/2022/12/16/OS/ssh/"/>
+      <url>/2022/12/16/OS/ssh/</url>
+      
+        <content type="html"><![CDATA[<h1 id="ROOT是什么意思？"><a href="#ROOT是什么意思？" class="headerlink" title="ROOT是什么意思？"></a>ROOT是什么意思？</h1><blockquote><p>Root，也称为<strong>根用户</strong>，是Unix (如 Solaris 、 AIX 、 BSD ）和类UNIX系统 (如 Linux 、 QNX 等)，及Android和iOS移动设备系统中的唯一的超级用户，因其可对根目录执行读写和执行操作而得名。 其相当于 Windows 系统中的 SYSTEM (XP及以下)&#x2F; TrustedInstaller (Vista及以上)用户。</p></blockquote><h1 id="默认用普通用户连接没问题"><a href="#默认用普通用户连接没问题" class="headerlink" title="默认用普通用户连接没问题"></a><strong>默认用普通用户连接没问题</strong></h1><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/700ff74486794f058a4a3b555a156254.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><h1 id="默认用root用户连接就会失败"><a href="#默认用root用户连接就会失败" class="headerlink" title="默认用root用户连接就会失败"></a><strong>默认用root用户连接就会失败</strong></h1><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/066d4ea760944183ba7612e9bb38337e.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><h1 id=""><a href="#" class="headerlink" title=""></a></h1><h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h1><p>因为Ubuntu系统会默认锁用户使用root远程连接；我们只需要<strong>添加一行允许代码</strong>即可。</p><p>CenOS系统不会锁用户；因为我试过。</p><h3 id="第一、给root用户设置一个密码"><a href="#第一、给root用户设置一个密码" class="headerlink" title="第一、给root用户设置一个密码"></a><strong>第一、给root用户设置一个密码</strong></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo passwd root</span><br></pre></td></tr></table></figure><p><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><h3 id="第二、修改SSH服务的配置文件（记得要安装SSH服务哦）"><a href="#第二、修改SSH服务的配置文件（记得要安装SSH服务哦）" class="headerlink" title="第二、修改SSH服务的配置文件（记得要安装SSH服务哦）"></a><strong>第二、修改SSH服务的配置文件（记得要安装SSH服务哦）</strong></h3><p>进入配置文件目录</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">dbw@dbw:~$ <span class="built_in">cd</span> /etc/ssh</span><br></pre></td></tr></table></figure><p><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><p>修改sshd_config这个文件！</p><p>（需要root权限才能修改）</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vi sshd_config</span><br></pre></td></tr></table></figure><p><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/b6a380550fac4bad81869c4992395282.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><p>添加红色区域代码；添加完成后保存；<a href="https://www.runoob.com/linux/linux-vim.html">vi命令教程</a>👈不会vi命令的可以自己点击链接自学一下！</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">PermitRootLogin <span class="built_in">yes</span></span><br></pre></td></tr></table></figure><p><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><p> 在终端运行SSH重启命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">service ssh restart</span><br></pre></td></tr></table></figure><p><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><hr><h3 id="第三、用SSH工具默认使用root用户连接linux"><a href="#第三、用SSH工具默认使用root用户连接linux" class="headerlink" title="第三、用SSH工具默认使用root用户连接linux"></a>第三、用SSH工具默认使用root用户连接linux</h3><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/9f78e1f478b84fd4a4101e828f99b636.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><h1 id="-1"><a href="#-1" class="headerlink" title=""></a></h1><h1 id="为什么我要默认用ROOT用户连接？👈👈👈"><a href="#为什么我要默认用ROOT用户连接？👈👈👈" class="headerlink" title="为什么我要默认用ROOT用户连接？👈👈👈"></a><strong>为什么我要默认用ROOT用户连接？👈👈👈</strong></h1><ul><li><strong>不想输入超级用户密码</strong></li><li><strong>拥有最高权限；便于增加或删除文件</strong></li><li><strong>可以借助SSH工具修改系统代码。（如果不是root登录；则无法保存修改过的文件）</strong></li></ul><p>不过root用户权限太高；可能导致手滑删除系统配置文件或重要数据！！！谨慎！！！</p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/5cda6bff937a41f7a369e86b60d5b342.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><p> nshll远程连接工具；直接在wind系统远程修改Linux的代码。（支持复制粘）</p><p>反正让我老老实实敲那么多代码；不可能；绝对不可能。</p><p><img src="https://collect34.longsunhd.com/source/plugin/yzs1013_pldr/getimg.php?url=https://img-blog.csdnimg.cn/f20145c362944f309f3900d3e7400622.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> OS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Ubuntu20通过Samba工具与windows系统实现文件共享传输</title>
+      <link href="/2022/12/13/OS/samba/"/>
+      <url>/2022/12/13/OS/samba/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Ubuntu20通过Samba工具与windows系统实现文件共享传输"><a href="#Ubuntu20通过Samba工具与windows系统实现文件共享传输" class="headerlink" title="Ubuntu20通过Samba工具与windows系统实现文件共享传输"></a>Ubuntu20通过Samba工具与windows系统实现文件共享传输</h1><blockquote><p>实测可用！！！！踩过N个坑了！！！</p><p>你要是失败；那就是ubuntu系统问题；重装系统再试一遍</p></blockquote><h2 id="Ubuntu"><a href="#Ubuntu" class="headerlink" title="Ubuntu"></a>Ubuntu</h2><h3 id="1、安装samba服务器"><a href="#1、安装samba服务器" class="headerlink" title="1、安装samba服务器"></a>1、安装samba服务器</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install samba samba-common</span><br></pre></td></tr></table></figure><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141508513.png" alt="图片"></p><h3 id="2、配置需要共享的目录"><a href="#2、配置需要共享的目录" class="headerlink" title="2、配置需要共享的目录"></a>2、配置需要共享的目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo <span class="built_in">chmod</span> 777 /home/ -R</span><br></pre></td></tr></table></figure><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141509307.png" alt="图片"></p><h3 id="3、添加Samba用户"><a href="#3、添加Samba用户" class="headerlink" title="3、添加Samba用户"></a>3、添加Samba用户</h3><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141509764.png" alt="图片"></p><h3 id="4、配置Samba（重点）"><a href="#4、配置Samba（重点）" class="headerlink" title="4、配置Samba（重点）"></a>4、配置Samba（重点）</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo vi /etc/samba/smb.conf</span><br></pre></td></tr></table></figure><p>在末尾添加如下代码工作组的话查看你自己电脑的Windows下的工作组名</p><p>read only &#x3D; no    &#x2F;&#x2F;就是可读可写的含义</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141509329.png" alt="图片"></p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141509514.png" alt="图片"></p><h3 id="5、重启samba服务"><a href="#5、重启samba服务" class="headerlink" title="5、重启samba服务"></a>5、重启samba服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo service smbd restart</span><br></pre></td></tr></table></figure><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141509251.png" alt="图片"></p><p>6、查看ubuntu系统IP地址 </p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ip add</span><br></pre></td></tr></table></figure><p>红色框内就是ubuntu的地址</p><p>Ubuntu和windows需要在同一网段内；虚拟机设置桥接就可以了</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141525187.png" alt="图片"></p><p>这是windows的IP地址</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141509738.png" alt="图片"></p><hr><h2 id="windows端"><a href="#windows端" class="headerlink" title="windows端"></a>windows端</h2><p>1、资源管理器访问</p><p>地址栏输入 <code>\\ + IP</code>地址回车就能看见ubuntu设置的共享文件夹了</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141509524.png" alt="图片"></p><p>2、浏览器访问</p><p>把资源管理器地址栏的IP和路径复制粘贴到浏览器地址栏就可以了</p><p><img src="https://jihulab.com/dengbowang/img/raw/main/pictures/2023/02/14_202302141510028.png" alt="图片"></p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> OS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+            <tag> samba </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>jsDelivr</title>
+      <link href="/2022/01/12/Web/jsDelivrsx/"/>
+      <url>/2022/01/12/Web/jsDelivrsx/</url>
+      
+        <content type="html"><![CDATA[<p>本文最后更新于 356 天前，其中的信息可能已经有所发展或是发生改变。</p><p>jsDelivr曾经是最火的前端静态文件库，也是各个站点喜欢用的静态文件CDN，甚至他们自己也推出了新的服务：<a href="https://www.jsdelivr.com/esm">esm.run</a>，可以直接在module中使用类似 <code>import crypto-js from &#39;https://esm.run/crypto-js&#39;</code> 的方式快速导入依赖，同时还可以使用到CDN。</p><p>说的有点多，某天一觉醒来发现自己的ISP的DNS服务器直接将 <code>cdn.jsdelivr.net</code> 解析成了 <code>0.0.0.0</code>，然后我就明白了，jsd在我家这里也要开始不能使用了。最近在不少博客之间逛，经常发现有博友出现这种情况，估计jsd正在逐步在全国失效。如果你的DNS把 <code>cdn.jsdelivr.net</code> 解析成 <code>127.0.0.1</code> 或者 <code>0.0.0.0</code>，那么说明你的地区jsd也被污染了。可以通过更换本机DNS解决<strong>你的问题</strong>。</p><p>DNS查询结果为0.0.0.0</p><p>jsd的官网还曾经介绍“jsDelivr是唯一有中国ICP许可的公开CDN，并在大陆有非常多的节点”，现在看来，它可能就要逐渐离开了。</p><p>jsDelivr官方网络介绍</p><h2 id="jsDelivr-备选站"><a href="#jsDelivr-备选站" class="headerlink" title="jsDelivr 备选站"></a>jsDelivr 备选站</h2><p>目前jsDelivr有以下备选站，分别由不同的赞助商提供，目前DNS还没有被污染，使用方法和 <code>cdn.jsdelivr.net</code> 相同</p><ul><li><code>https://fastly.jsdelivr.net/</code> 由fastly提供</li><li><code>https://gcore.jsdelivr.net/</code> 由G-Core Labs提供</li><li><code>https://testingcf.jsdelivr.net/</code> 由CloudFlare提供</li></ul><p>其实 <code>cdn.jsdelivr.net</code> 就是由上述几家服务的综合，只不过在特定情况只解析某一个特定服务商。</p><p>至于这三个的速度，请自行去类似boce之类的网站上测试（我这里是fastly最好）。<strong>建议有在使用jsDelivr的站长尽快更换一下，不然肯定会有访客访问不了的。</strong></p><p>只能说DNS污染比cdn前缀要差一些，还是做好替换到别的服务的准备</p><h2 id="前端静态文件CDN备选站"><a href="#前端静态文件CDN备选站" class="headerlink" title="前端静态文件CDN备选站"></a>前端静态文件CDN备选站</h2><p><strong>如果你在寻找前端库的CDN，那么有以下几个CDN站值得一试：</strong></p><ul><li><a href="https://www.staticfile.org/">https://www.staticfile.org/</a> – 由七牛云及掘金提供支持</li><li><a href="https://www.bootcdn.cn/">https://www.bootcdn.cn/</a> – 由极兔云联合BootStrap中文网提供</li><li><a href="https://cdn.bytedance.com/">https://cdn.bytedance.com/</a> – 字节跳动提供，内容与cdnjs一致</li><li><a href="https://www.sourcegcdn.com/">https://www.sourcegcdn.com/</a> – 由 <a href="https://ahdark.com/">AHDark</a> 创立，支持npm及GitHub（白名单）</li><li><a href="https://cdnjs.com/">https://cdnjs.com/</a> – 由CloudFlare等提供支持</li><li><a href="https://unpkg.com/">https://unpkg.com/</a> – 也是CloudFlare提供支持，<strong>仅限npm包</strong></li></ul><blockquote><p>以上站点可能对于一些包的更新不是那么及时，所以jsd如果没有大面积不可用，还是可以作为最好的选择的。</p></blockquote><p><strong>如果你是要加速Github文件</strong>，那么我目前还没有找到很好的替代，因为jsd真的太方便了。</p><p><strong>如果你是要加速自己的个人图片等资源</strong>，那么你 <code>alt+f4</code> 赶快光速离开，因为这种公共静态文件CDN根本不是给你这种为了个人用的好吧，至少在我自己的思考里这样做就是浪费公共资源。（例如在npm官方发包来当图床的，分明就是在污染npm好吧）。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+            <tag> blog </tag>
+            
+            <tag> CDN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>配置 | Hexo Aurora</title>
+      <link href="/2022/01/12/Web/pgHexo%20Aurora/"/>
+      <url>/2022/01/12/Web/pgHexo%20Aurora/</url>
+      
+        <content type="html"><![CDATA[<h1 id="配置-Hexo-Aurora"><a href="#配置-Hexo-Aurora" class="headerlink" title="配置 | Hexo Aurora"></a>配置 | Hexo Aurora</h1><blockquote><h2 id="Excerpt"><a href="#Excerpt" class="headerlink" title="Excerpt"></a>Excerpt</h2><p>迈向未来的 Hexo 极光主题</p></blockquote><hr><h2 id="配置"><a href="#配置" class="headerlink" title="# 配置"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E9%85%8D%E7%BD%AE">#</a> 配置</h2><h2 id="配置文件"><a href="#配置文件" class="headerlink" title="# 配置文件"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6">#</a> 配置文件</h2><p>一共有两个配置文件，一个是 <strong>Hexo 自身</strong>的配置，一个是<strong>主题专用</strong>的配置。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">. # Hexo 项目根目录.</span><br><span class="line">├─ _config.yml # Hexo 配置文件.</span><br><span class="line">└─ _config.aurora.yml # 主题配置.</span><br></pre></td></tr></table></figure><p>注意</p><p>大部分主题的功能都是使用主题配置文件的，但是有部分需要用到 Hexo 插件的就需要在 Hexo 的配置中修改。</p><h2 id="基础配置"><a href="#基础配置" class="headerlink" title="# 基础配置"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE">#</a> 基础配置</h2><p>我们可以使用 <code>site</code> 来设置我们博客的主要信息和配置。</p><p><code>site</code> 配置拥有以下选项：</p><table><thead><tr><th>选项</th><th>接受类型</th><th>使用说明</th></tr></thead><tbody><tr><td><code>subtitle</code></td><td>String</td><td>博客自标题，页面主标题后面会跟随这个标题内容。</td></tr><tr><td><code>author</code></td><td>String</td><td>博客作者名字，或者是博客名字。会在 <strong>header 的 logo 区域</strong>显示，也会在<strong>博客简介</strong>中显示。</td></tr><tr><td><code>nick</code></td><td>String</td><td>博客子名字，会在 header 的 logo 下方显示。</td></tr><tr><td><code>description</code></td><td>String</td><td>会在博客简介中显示，用几句话描述博主相关信息（支持 HTML 标签）</td></tr><tr><td><code>language</code></td><td>en, cn</td><td>配置默认博客语言，en 是英文，cn 是中文。</td></tr><tr><td><code>multi_language</code></td><td>true, false</td><td>开启博客的多语言支持</td></tr><tr><td><code>logo</code></td><td>String</td><td>Logo 的图片链接 image.</td></tr><tr><td><code>avatar</code></td><td>String</td><td>头像的图片链接 image.</td></tr><tr><td><code>beian</code></td><td>Object</td><td>网站备案信息 (从版本 1.1.0 开始，这个配置拥有两个属性)</td></tr></tbody></table><p>提示</p><p>如果每首设置 <code>avatar</code> 的图片链接，默认会去取 logo 的图片链接。</p><hr><h3 id="网站备案信息"><a href="#网站备案信息" class="headerlink" title="# 网站备案信息"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E7%BD%91%E7%AB%99%E5%A4%87%E6%A1%88%E4%BF%A1%E6%81%AF">#</a> 网站备案信息</h3><blockquote><p><code>beian</code> 选项</p></blockquote><table><thead><tr><th>选项</th><th>接受类型</th><th>使用说明</th></tr></thead><tbody><tr><td><code>number</code></td><td>String</td><td>备案编号.</td></tr><tr><td><code>link</code></td><td>String</td><td>备案链接.</td></tr></tbody></table><hr><h3 id="公安备案信息"><a href="#公安备案信息" class="headerlink" title="# 公安备案信息"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E5%85%AC%E5%AE%89%E5%A4%87%E6%A1%88%E4%BF%A1%E6%81%AF">#</a> 公安备案信息</h3><blockquote><p><code>police_beian</code> 选项</p></blockquote><table><thead><tr><th>选项</th><th>接受类型</th><th>使用说明</th></tr></thead><tbody><tr><td><code>number</code></td><td>String</td><td>备案编号.</td></tr><tr><td><code>link</code></td><td>String</td><td>备案链接.</td></tr></tbody></table><hr><h2 id="配置例子"><a href="#配置例子" class="headerlink" title="# 配置例子"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E9%85%8D%E7%BD%AE%E4%BE%8B%E5%AD%90">#</a> 配置例子</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"># Site 配置</span><br><span class="line">site:</span><br><span class="line">  subtitle: TriDiamond&#x27;s Blog</span><br><span class="line">  author: 三钻</span><br><span class="line">  nick: TriDiamond</span><br><span class="line">  description: 一位正在重塑知识的技术人 &lt;br /&gt; @ &lt;b&gt;公众号：技术银河&lt;/b&gt;</span><br><span class="line">  language: cn</span><br><span class="line">  multi_language: true</span><br><span class="line">  logo: https://image-website.com/path-to-image.jpg</span><br><span class="line">  avatar: https://image-website.com/path-to-image.jpg</span><br><span class="line">  beian: # 如果不需要可以让 number 和 link 保持空白</span><br><span class="line">    number: &quot;123123123123&quot;</span><br><span class="line">    link: &#x27;https://link-to-beian.com&#x27;</span><br><span class="line">  police_beian:</span><br><span class="line">    number: &quot;123123123123&quot;</span><br><span class="line">    link: &#x27;https://link-to-police-beian.com&#x27;</span><br></pre></td></tr></table></figure><h2 id="推荐文章"><a href="#推荐文章" class="headerlink" title="# 推荐文章"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E6%8E%A8%E8%8D%90%E6%96%87%E7%AB%A0">#</a> 推荐文章</h2><p>Aurora 主题在首页有推荐板块，任何文章都可以设置在这里显示显示。</p><p>要设置一篇文章在推荐板块中显示，只需在 Front-Meta 中添加一个 <code>feature: true</code> 属性即可。</p><p>例如:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: Article Title</span><br><span class="line">date: 2020-08-15 18:49:36</span><br><span class="line">tags:</span><br><span class="line">  - Tag</span><br><span class="line">categories:</span><br><span class="line">  - Cate</span><br><span class="line">cover: https://cover.png</span><br><span class="line">feature: true</span><br><span class="line">---</span><br></pre></td></tr></table></figure><h1 id="菜单-Hexo-Aurora"><a href="#菜单-Hexo-Aurora" class="headerlink" title="菜单 | Hexo Aurora"></a>菜单 | Hexo Aurora</h1><blockquote><h2 id="Excerpt-1"><a href="#Excerpt-1" class="headerlink" title="Excerpt"></a>Excerpt</h2><p>迈向未来的 Hexo 极光主题</p></blockquote><hr><h2 id="菜单"><a href="#菜单" class="headerlink" title="# 菜单"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E8%8F%9C%E5%8D%95">#</a> 菜单</h2><p>Aurora 主题的<strong>菜单</strong>是可以自主定义的，只需要通过在主题的 <code>_config.aurora.yaml</code> 中配置即可。</p><h2 id="默认菜单"><a href="#默认菜单" class="headerlink" title="# 默认菜单"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E9%BB%98%E8%AE%A4%E8%8F%9C%E5%8D%95">#</a> 默认菜单</h2><p>Aurora 拥有 3 个自带样式的页面，分别是<strong>关于页</strong>、<strong>标签页</strong>和<strong>归档页</strong></p><p>首页和关于页默认是开启的，但是标签和归档页就可以通过修改主题配置里面的 <code>menu</code> 配置来开启或者关闭。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  About: false</span><br><span class="line">  Tags: true</span><br><span class="line">  Archives: true</span><br></pre></td></tr></table></figure><p>如果把 <code>true</code> 改为 <code>false</code> 就会把特定的页面在导航中屏蔽掉。</p><h2 id="自定义菜单"><a href="#自定义菜单" class="headerlink" title="# 自定义菜单"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%8F%9C%E5%8D%95">#</a> 自定义菜单</h2><p>除了主题自带的默认页面可以在导航中显示之外，我们还可以添加自定义的页面和外部链接。</p><h3 id="外部链接"><a href="#外部链接" class="headerlink" title="# 外部链接"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5">#</a> 外部链接</h3><p>如果现在我们想添加一个通往我们 github 项目的外部链接，这个时候我们就可以在 menu 配置中这样写：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  Tags: true</span><br><span class="line">  Archives: true</span><br><span class="line">  # 一个 github 项目的外部链接</span><br><span class="line">  Aurora:</span><br><span class="line">    name: &#x27;Aurora&#x27;</span><br><span class="line">    path: &#x27;https://github.com/Aurora/hexo-theme-Aurora&#x27;</span><br></pre></td></tr></table></figure><p>自从版本 <code>v1.4.3</code>，外部链接也支持 <code>mailto</code> 链接。 这将把您的用户带到他们的电子邮件页面发送电子邮件。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  Tags: true</span><br><span class="line">  Archives: true</span><br><span class="line">  # External link for a github repo</span><br><span class="line">  Email:</span><br><span class="line">    name: &#x27;Mail Me&#x27;</span><br><span class="line">    path: &#x27;mailto:code.tridiamond@gmail.com&#x27;</span><br></pre></td></tr></table></figure><h3 id="多级菜单"><a href="#多级菜单" class="headerlink" title="# 多级菜单"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E5%A4%9A%E7%BA%A7%E8%8F%9C%E5%8D%95">#</a> 多级菜单</h3><p>有时候我们还可能想分组一些链接，把一些链接放到二级导航里面。没问题，Aurora 的菜单系统也是支持多级菜单的。要创建一个多级菜单，我们只需要在 menu 的链接中添加一个 <code>children</code> 属性即可。</p><p>比如，现在我们想把我们所有的 github 项目链接都放入一个 projects 的主导航之下。我们就可以这样配置我们的 menu 选项：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  Tags: true</span><br><span class="line">  Archives: true</span><br><span class="line">  # 多级 projects 菜单配置</span><br><span class="line">  projects:</span><br><span class="line">    name: &#x27;Projects&#x27;</span><br><span class="line">    children:</span><br><span class="line">      obsidian:</span><br><span class="line">        name: &#x27;Obsidian Theme&#x27;</span><br><span class="line">        path: &#x27;https://github.com/tridiamond/hexo-theme-obsidian&#x27;</span><br><span class="line">      Aurora:</span><br><span class="line">        name: &#x27;Aurora Theme&#x27;</span><br><span class="line">        path: &#x27;https://github.com/Aurora/hexo-theme-Aurora&#x27;</span><br></pre></td></tr></table></figure><p>注意</p><p>顶级链接是不需要配置 <code>path</code> 属性的，因为当它被点击时是不会跳转页面的。</p><p>就算我们给顶级链接配置了 <code>path</code>，这个 path 地址也会被忽略的。</p><h3 id="内部链接"><a href="#内部链接" class="headerlink" title="# 内部链接"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#%E5%86%85%E9%83%A8%E9%93%BE%E6%8E%A5">#</a> 内部链接</h3><p>提示</p><p>内部链接需要结合自定义页面使用，这部分的使用指南请移步到文档的<a href="https://aurora.tridiamond.tech/zh/guide/page.html">页面</a>指南中详细了解。</p><h2 id="I18n-菜单"><a href="#I18n-菜单" class="headerlink" title="# I18n 菜单"></a><a href="https://aurora.tridiamond.tech/zh/guide/menu.html#i18n-%E8%8F%9C%E5%8D%95">#</a> I18n 菜单</h2><p>由于主题支持 I18n 多语言，所以菜单名也支持多语言设置。目前主题支持菜单的英文和中文翻译。(<em>在不久的将来会支持更多。</em>)</p><p>要为菜单设置多语言，我们只需要配置 <code>i18n</code> 属性，而这个属性有<strong>2 个选项</strong>:</p><ul><li><code>cn</code> - 中文翻译</li><li><code>en</code> - 英文翻译</li></ul><h1 id="Markdown-Hexo-Aurora"><a href="#Markdown-Hexo-Aurora" class="headerlink" title="Markdown | Hexo Aurora"></a>Markdown | Hexo Aurora</h1><blockquote><h2 id="Excerpt-2"><a href="#Excerpt-2" class="headerlink" title="Excerpt"></a>Excerpt</h2><p>迈向未来的 Hexo 极光主题</p></blockquote><hr><p><strong>更新记录</strong></p><blockquote><ul><li>版本 <code>1.5.0+</code><ul><li>Aurora 添加了 markdown <a href="https://aurora.tridiamond.tech/zh/guide/markdown.html#custom-containers">自定义容器</a>.</li><li>Font-Meta 中的<code>Feature</code>属性会影响在置顶模式下的置顶状态</li></ul></li></ul></blockquote><hr><p>Aurora 主题有它自己的自定义前置元属性，他们是用来配置特定的功能。</p><h3 id="Feature-属性"><a href="#Feature-属性" class="headerlink" title="# Feature 属性"></a><a href="https://aurora.tridiamond.tech/zh/guide/markdown.html#feature-%E5%B1%9E%E6%80%A7">#</a> Feature 属性</h3><p>这个<code>feature</code>属性将允许 Aurora 引擎找到这些文章，并将它们添加到推荐列表或置顶列表数据中。使用<a href="https://aurora.tridiamond.tech/zh/guide/theme.html#%E6%8E%A8%E8%8D%90%E5%B8%83%E5%B1%80%E6%A8%A1%E5%BC%8F">推荐布局模式</a>或<a href="https://aurora.tridiamond.tech/zh/guide/theme.html#%E7%BD%AE%E9%A1%B6%E5%B8%83%E5%B1%80%E6%A8%A1%E5%BC%8F">置顶布局模式</a>。</p><hr><h2 id="自定义容器"><a href="#自定义容器" class="headerlink" title="# 自定义容器"></a><a href="https://aurora.tridiamond.tech/zh/guide/markdown.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%B9%E5%99%A8">#</a> 自定义容器</h2><p>所有的自定义容器都使用这种格式:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">:::[type] [title]</span><br><span class="line">文本内容</span><br><span class="line">:::</span><br></pre></td></tr></table></figure><ul><li><code>type</code> 是容器的类型</li><li><code>title</code> 是可选的，可以用来重命名容器的标题</li></ul><h3 id="Tip-容器"><a href="#Tip-容器" class="headerlink" title="# Tip 容器"></a><a href="https://aurora.tridiamond.tech/zh/guide/markdown.html#tip-%E5%AE%B9%E5%99%A8">#</a> Tip 容器</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">:::tip</span><br><span class="line">Normal Tips Container</span><br><span class="line">:::</span><br></pre></td></tr></table></figure><p><img src="https://aurora.tridiamond.tech/images/screenshots/tip.png"></p><p>如果你不想使用默认的标题<code>TIP</code>，你可以使用以下方法重命名你的容器标题:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">:::tip Custom header</span><br><span class="line"></span><br><span class="line">Custom header</span><br><span class="line"></span><br><span class="line">- tips content</span><br><span class="line">- tips new line</span><br><span class="line"></span><br><span class="line">:::</span><br></pre></td></tr></table></figure><p><img src="https://aurora.tridiamond.tech/images/screenshots/tip-rename.png"></p><h3 id="Warning-容器"><a href="#Warning-容器" class="headerlink" title="# Warning 容器"></a><a href="https://aurora.tridiamond.tech/zh/guide/markdown.html#warning-%E5%AE%B9%E5%99%A8">#</a> Warning 容器</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">:::warning</span><br><span class="line">Warning!!!</span><br><span class="line">:::</span><br></pre></td></tr></table></figure><p><img src="https://aurora.tridiamond.tech/images/screenshots/warning.png"></p><h3 id="Danger-容器"><a href="#Danger-容器" class="headerlink" title="# Danger 容器"></a><a href="https://aurora.tridiamond.tech/zh/guide/markdown.html#danger-%E5%AE%B9%E5%99%A8">#</a> Danger 容器</h3><p><img src="https://aurora.tridiamond.tech/images/screenshots/danger.png"></p><h3 id="Details-容器"><a href="#Details-容器" class="headerlink" title="# Details 容器"></a><a href="https://aurora.tridiamond.tech/zh/guide/markdown.html#details-%E5%AE%B9%E5%99%A8">#</a> Details 容器</h3><p>这是一种特殊类型的容器。如果你看过 GitHub 中的 <code>details</code> 容器，你可能会猜出它的功能是什么。</p><p>是的，您可以隐藏某些内容，并单击来展开它。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">:::details Click to see more</span><br><span class="line"></span><br><span class="line">Fusce rutrum venenatis eros in hendrerit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam eget risus egestas, aliquet ipsum sed, volutpat tortor. Proin finibus tortor ac mauris finibus rutrum. Nullam tincidunt arcu eu urna ullamcorper, eu ultricies turpis ornare. Morbi id sollicitudin orci. Proin lobortis vehicula nibh a ornare. Cras sodales eu ligula quis fermentum. Proin eu ultrices leo, quis iaculis justo. Sed dictum, nulla sit amet imperdiet commodo, libero sapien semper justo, ut lobortis elit nunc vitae ante. Nullam lobortis odio quam, ac condimentum elit posuere vitae. Sed ornare, odio et rutrum varius, lorem eros gravida urna, in pharetra sapien justo non magna.</span><br><span class="line"></span><br><span class="line">- details content</span><br><span class="line">- details new line</span><br><span class="line"></span><br><span class="line">```javascript</span><br><span class="line">console.log(&#x27;hello world&#x27;)</span><br><span class="line">```</span><br><span class="line"></span><br><span class="line">:::</span><br></pre></td></tr></table></figure><p><strong>关闭状态:</strong></p><p><img src="https://aurora.tridiamond.tech/images/screenshots/detail.png"></p><p><strong>展开状态:</strong></p><p><img src="https://aurora.tridiamond.tech/images/screenshots/detail-opened.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+            <tag> blog </tag>
+            
+            <tag> Around </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图片测试</title>
+      <link href="/2002/02/15/mb%20(copy)/"/>
+      <url>/2002/02/15/mb%20(copy)/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/assets/logo-white-1680141095456-1.png" alt="logo-white"></p><p><img src="/assets/tx1-1680141103983-6.jpg" alt="tx1"><img src="/assets/logo-1680141095457-2.png" alt="logo"></p><p><img src="/assets/tx-1680141103983-5.jpg" alt="tx"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>模板</title>
+      <link href="/2002/02/15/mb/"/>
+      <url>/2002/02/15/mb/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
